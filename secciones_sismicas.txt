@@ -1,0 +1,3972 @@
+
+Sección 1: Trazas 0 a 950 (951 trazas)
+  • FieldRecord:   100 → 100
+  • ShotPoint:     1 → 951
+  • INLINE_3D:     100 → 100
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 2: Trazas 951 a 1901 (951 trazas)
+  • FieldRecord:   101 → 101
+  • ShotPoint:     952 → 1902
+  • INLINE_3D:     101 → 101
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 3: Trazas 1902 a 2852 (951 trazas)
+  • FieldRecord:   102 → 102
+  • ShotPoint:     1903 → 2853
+  • INLINE_3D:     102 → 102
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 4: Trazas 2853 a 3803 (951 trazas)
+  • FieldRecord:   103 → 103
+  • ShotPoint:     2854 → 3804
+  • INLINE_3D:     103 → 103
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 5: Trazas 3804 a 4754 (951 trazas)
+  • FieldRecord:   104 → 104
+  • ShotPoint:     3805 → 4755
+  • INLINE_3D:     104 → 104
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 6: Trazas 4755 a 5705 (951 trazas)
+  • FieldRecord:   105 → 105
+  • ShotPoint:     4756 → 5706
+  • INLINE_3D:     105 → 105
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 7: Trazas 5706 a 6656 (951 trazas)
+  • FieldRecord:   106 → 106
+  • ShotPoint:     5707 → 6657
+  • INLINE_3D:     106 → 106
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 8: Trazas 6657 a 7607 (951 trazas)
+  • FieldRecord:   107 → 107
+  • ShotPoint:     6658 → 7608
+  • INLINE_3D:     107 → 107
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 9: Trazas 7608 a 8558 (951 trazas)
+  • FieldRecord:   108 → 108
+  • ShotPoint:     7609 → 8559
+  • INLINE_3D:     108 → 108
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 10: Trazas 8559 a 9509 (951 trazas)
+  • FieldRecord:   109 → 109
+  • ShotPoint:     8560 → 9510
+  • INLINE_3D:     109 → 109
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 11: Trazas 9510 a 10460 (951 trazas)
+  • FieldRecord:   110 → 110
+  • ShotPoint:     9511 → 10461
+  • INLINE_3D:     110 → 110
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 12: Trazas 10461 a 11411 (951 trazas)
+  • FieldRecord:   111 → 111
+  • ShotPoint:     10462 → 11412
+  • INLINE_3D:     111 → 111
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 13: Trazas 11412 a 12362 (951 trazas)
+  • FieldRecord:   112 → 112
+  • ShotPoint:     11413 → 12363
+  • INLINE_3D:     112 → 112
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 14: Trazas 12363 a 13313 (951 trazas)
+  • FieldRecord:   113 → 113
+  • ShotPoint:     12364 → 13314
+  • INLINE_3D:     113 → 113
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 15: Trazas 13314 a 14264 (951 trazas)
+  • FieldRecord:   114 → 114
+  • ShotPoint:     13315 → 14265
+  • INLINE_3D:     114 → 114
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 16: Trazas 14265 a 15215 (951 trazas)
+  • FieldRecord:   115 → 115
+  • ShotPoint:     14266 → 15216
+  • INLINE_3D:     115 → 115
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 17: Trazas 15216 a 16166 (951 trazas)
+  • FieldRecord:   116 → 116
+  • ShotPoint:     15217 → 16167
+  • INLINE_3D:     116 → 116
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 18: Trazas 16167 a 17117 (951 trazas)
+  • FieldRecord:   117 → 117
+  • ShotPoint:     16168 → 17118
+  • INLINE_3D:     117 → 117
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 19: Trazas 17118 a 18068 (951 trazas)
+  • FieldRecord:   118 → 118
+  • ShotPoint:     17119 → 18069
+  • INLINE_3D:     118 → 118
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 20: Trazas 18069 a 19019 (951 trazas)
+  • FieldRecord:   119 → 119
+  • ShotPoint:     18070 → 19020
+  • INLINE_3D:     119 → 119
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 21: Trazas 19020 a 19970 (951 trazas)
+  • FieldRecord:   120 → 120
+  • ShotPoint:     19021 → 19971
+  • INLINE_3D:     120 → 120
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 22: Trazas 19971 a 20921 (951 trazas)
+  • FieldRecord:   121 → 121
+  • ShotPoint:     19972 → 20922
+  • INLINE_3D:     121 → 121
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 23: Trazas 20922 a 21872 (951 trazas)
+  • FieldRecord:   122 → 122
+  • ShotPoint:     20923 → 21873
+  • INLINE_3D:     122 → 122
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 24: Trazas 21873 a 22823 (951 trazas)
+  • FieldRecord:   123 → 123
+  • ShotPoint:     21874 → 22824
+  • INLINE_3D:     123 → 123
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 25: Trazas 22824 a 23774 (951 trazas)
+  • FieldRecord:   124 → 124
+  • ShotPoint:     22825 → 23775
+  • INLINE_3D:     124 → 124
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 26: Trazas 23775 a 24725 (951 trazas)
+  • FieldRecord:   125 → 125
+  • ShotPoint:     23776 → 24726
+  • INLINE_3D:     125 → 125
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 27: Trazas 24726 a 25676 (951 trazas)
+  • FieldRecord:   126 → 126
+  • ShotPoint:     24727 → 25677
+  • INLINE_3D:     126 → 126
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 28: Trazas 25677 a 26627 (951 trazas)
+  • FieldRecord:   127 → 127
+  • ShotPoint:     25678 → 26628
+  • INLINE_3D:     127 → 127
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 29: Trazas 26628 a 27578 (951 trazas)
+  • FieldRecord:   128 → 128
+  • ShotPoint:     26629 → 27579
+  • INLINE_3D:     128 → 128
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 30: Trazas 27579 a 28529 (951 trazas)
+  • FieldRecord:   129 → 129
+  • ShotPoint:     27580 → 28530
+  • INLINE_3D:     129 → 129
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 31: Trazas 28530 a 29480 (951 trazas)
+  • FieldRecord:   130 → 130
+  • ShotPoint:     28531 → 29481
+  • INLINE_3D:     130 → 130
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 32: Trazas 29481 a 30431 (951 trazas)
+  • FieldRecord:   131 → 131
+  • ShotPoint:     29482 → 30432
+  • INLINE_3D:     131 → 131
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 33: Trazas 30432 a 31382 (951 trazas)
+  • FieldRecord:   132 → 132
+  • ShotPoint:     30433 → 31383
+  • INLINE_3D:     132 → 132
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 34: Trazas 31383 a 32333 (951 trazas)
+  • FieldRecord:   133 → 133
+  • ShotPoint:     31384 → 32334
+  • INLINE_3D:     133 → 133
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 35: Trazas 32334 a 33284 (951 trazas)
+  • FieldRecord:   134 → 134
+  • ShotPoint:     32335 → 33285
+  • INLINE_3D:     134 → 134
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 36: Trazas 33285 a 34235 (951 trazas)
+  • FieldRecord:   135 → 135
+  • ShotPoint:     33286 → 34236
+  • INLINE_3D:     135 → 135
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 37: Trazas 34236 a 35186 (951 trazas)
+  • FieldRecord:   136 → 136
+  • ShotPoint:     34237 → 35187
+  • INLINE_3D:     136 → 136
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 38: Trazas 35187 a 36137 (951 trazas)
+  • FieldRecord:   137 → 137
+  • ShotPoint:     35188 → 36138
+  • INLINE_3D:     137 → 137
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 39: Trazas 36138 a 37088 (951 trazas)
+  • FieldRecord:   138 → 138
+  • ShotPoint:     36139 → 37089
+  • INLINE_3D:     138 → 138
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 40: Trazas 37089 a 38039 (951 trazas)
+  • FieldRecord:   139 → 139
+  • ShotPoint:     37090 → 38040
+  • INLINE_3D:     139 → 139
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 41: Trazas 38040 a 38990 (951 trazas)
+  • FieldRecord:   140 → 140
+  • ShotPoint:     38041 → 38991
+  • INLINE_3D:     140 → 140
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 42: Trazas 38991 a 39941 (951 trazas)
+  • FieldRecord:   141 → 141
+  • ShotPoint:     38992 → 39942
+  • INLINE_3D:     141 → 141
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 43: Trazas 39942 a 40892 (951 trazas)
+  • FieldRecord:   142 → 142
+  • ShotPoint:     39943 → 40893
+  • INLINE_3D:     142 → 142
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 44: Trazas 40893 a 41843 (951 trazas)
+  • FieldRecord:   143 → 143
+  • ShotPoint:     40894 → 41844
+  • INLINE_3D:     143 → 143
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 45: Trazas 41844 a 42794 (951 trazas)
+  • FieldRecord:   144 → 144
+  • ShotPoint:     41845 → 42795
+  • INLINE_3D:     144 → 144
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 46: Trazas 42795 a 43745 (951 trazas)
+  • FieldRecord:   145 → 145
+  • ShotPoint:     42796 → 43746
+  • INLINE_3D:     145 → 145
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 47: Trazas 43746 a 44696 (951 trazas)
+  • FieldRecord:   146 → 146
+  • ShotPoint:     43747 → 44697
+  • INLINE_3D:     146 → 146
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 48: Trazas 44697 a 45647 (951 trazas)
+  • FieldRecord:   147 → 147
+  • ShotPoint:     44698 → 45648
+  • INLINE_3D:     147 → 147
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 49: Trazas 45648 a 46598 (951 trazas)
+  • FieldRecord:   148 → 148
+  • ShotPoint:     45649 → 46599
+  • INLINE_3D:     148 → 148
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 50: Trazas 46599 a 47549 (951 trazas)
+  • FieldRecord:   149 → 149
+  • ShotPoint:     46600 → 47550
+  • INLINE_3D:     149 → 149
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 51: Trazas 47550 a 48500 (951 trazas)
+  • FieldRecord:   150 → 150
+  • ShotPoint:     47551 → 48501
+  • INLINE_3D:     150 → 150
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 52: Trazas 48501 a 49451 (951 trazas)
+  • FieldRecord:   151 → 151
+  • ShotPoint:     48502 → 49452
+  • INLINE_3D:     151 → 151
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 53: Trazas 49452 a 50402 (951 trazas)
+  • FieldRecord:   152 → 152
+  • ShotPoint:     49453 → 50403
+  • INLINE_3D:     152 → 152
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 54: Trazas 50403 a 51353 (951 trazas)
+  • FieldRecord:   153 → 153
+  • ShotPoint:     50404 → 51354
+  • INLINE_3D:     153 → 153
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 55: Trazas 51354 a 52304 (951 trazas)
+  • FieldRecord:   154 → 154
+  • ShotPoint:     51355 → 52305
+  • INLINE_3D:     154 → 154
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 56: Trazas 52305 a 53255 (951 trazas)
+  • FieldRecord:   155 → 155
+  • ShotPoint:     52306 → 53256
+  • INLINE_3D:     155 → 155
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 57: Trazas 53256 a 54206 (951 trazas)
+  • FieldRecord:   156 → 156
+  • ShotPoint:     53257 → 54207
+  • INLINE_3D:     156 → 156
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 58: Trazas 54207 a 55157 (951 trazas)
+  • FieldRecord:   157 → 157
+  • ShotPoint:     54208 → 55158
+  • INLINE_3D:     157 → 157
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 59: Trazas 55158 a 56108 (951 trazas)
+  • FieldRecord:   158 → 158
+  • ShotPoint:     55159 → 56109
+  • INLINE_3D:     158 → 158
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 60: Trazas 56109 a 57059 (951 trazas)
+  • FieldRecord:   159 → 159
+  • ShotPoint:     56110 → 57060
+  • INLINE_3D:     159 → 159
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 61: Trazas 57060 a 58010 (951 trazas)
+  • FieldRecord:   160 → 160
+  • ShotPoint:     57061 → 58011
+  • INLINE_3D:     160 → 160
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 62: Trazas 58011 a 58961 (951 trazas)
+  • FieldRecord:   161 → 161
+  • ShotPoint:     58012 → 58962
+  • INLINE_3D:     161 → 161
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 63: Trazas 58962 a 59912 (951 trazas)
+  • FieldRecord:   162 → 162
+  • ShotPoint:     58963 → 59913
+  • INLINE_3D:     162 → 162
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 64: Trazas 59913 a 60863 (951 trazas)
+  • FieldRecord:   163 → 163
+  • ShotPoint:     59914 → 60864
+  • INLINE_3D:     163 → 163
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 65: Trazas 60864 a 61814 (951 trazas)
+  • FieldRecord:   164 → 164
+  • ShotPoint:     60865 → 61815
+  • INLINE_3D:     164 → 164
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 66: Trazas 61815 a 62765 (951 trazas)
+  • FieldRecord:   165 → 165
+  • ShotPoint:     61816 → 62766
+  • INLINE_3D:     165 → 165
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 67: Trazas 62766 a 63716 (951 trazas)
+  • FieldRecord:   166 → 166
+  • ShotPoint:     62767 → 63717
+  • INLINE_3D:     166 → 166
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 68: Trazas 63717 a 64667 (951 trazas)
+  • FieldRecord:   167 → 167
+  • ShotPoint:     63718 → 64668
+  • INLINE_3D:     167 → 167
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 69: Trazas 64668 a 65618 (951 trazas)
+  • FieldRecord:   168 → 168
+  • ShotPoint:     64669 → 65619
+  • INLINE_3D:     168 → 168
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 70: Trazas 65619 a 66569 (951 trazas)
+  • FieldRecord:   169 → 169
+  • ShotPoint:     65620 → 66570
+  • INLINE_3D:     169 → 169
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 71: Trazas 66570 a 67520 (951 trazas)
+  • FieldRecord:   170 → 170
+  • ShotPoint:     66571 → 67521
+  • INLINE_3D:     170 → 170
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 72: Trazas 67521 a 68471 (951 trazas)
+  • FieldRecord:   171 → 171
+  • ShotPoint:     67522 → 68472
+  • INLINE_3D:     171 → 171
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 73: Trazas 68472 a 69422 (951 trazas)
+  • FieldRecord:   172 → 172
+  • ShotPoint:     68473 → 69423
+  • INLINE_3D:     172 → 172
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 74: Trazas 69423 a 70373 (951 trazas)
+  • FieldRecord:   173 → 173
+  • ShotPoint:     69424 → 70374
+  • INLINE_3D:     173 → 173
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 75: Trazas 70374 a 71324 (951 trazas)
+  • FieldRecord:   174 → 174
+  • ShotPoint:     70375 → 71325
+  • INLINE_3D:     174 → 174
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 76: Trazas 71325 a 72275 (951 trazas)
+  • FieldRecord:   175 → 175
+  • ShotPoint:     71326 → 72276
+  • INLINE_3D:     175 → 175
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 77: Trazas 72276 a 73226 (951 trazas)
+  • FieldRecord:   176 → 176
+  • ShotPoint:     72277 → 73227
+  • INLINE_3D:     176 → 176
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 78: Trazas 73227 a 74177 (951 trazas)
+  • FieldRecord:   177 → 177
+  • ShotPoint:     73228 → 74178
+  • INLINE_3D:     177 → 177
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 79: Trazas 74178 a 75128 (951 trazas)
+  • FieldRecord:   178 → 178
+  • ShotPoint:     74179 → 75129
+  • INLINE_3D:     178 → 178
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 80: Trazas 75129 a 76079 (951 trazas)
+  • FieldRecord:   179 → 179
+  • ShotPoint:     75130 → 76080
+  • INLINE_3D:     179 → 179
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 81: Trazas 76080 a 77030 (951 trazas)
+  • FieldRecord:   180 → 180
+  • ShotPoint:     76081 → 77031
+  • INLINE_3D:     180 → 180
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 82: Trazas 77031 a 77981 (951 trazas)
+  • FieldRecord:   181 → 181
+  • ShotPoint:     77032 → 77982
+  • INLINE_3D:     181 → 181
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 83: Trazas 77982 a 78932 (951 trazas)
+  • FieldRecord:   182 → 182
+  • ShotPoint:     77983 → 78933
+  • INLINE_3D:     182 → 182
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 84: Trazas 78933 a 79883 (951 trazas)
+  • FieldRecord:   183 → 183
+  • ShotPoint:     78934 → 79884
+  • INLINE_3D:     183 → 183
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 85: Trazas 79884 a 80834 (951 trazas)
+  • FieldRecord:   184 → 184
+  • ShotPoint:     79885 → 80835
+  • INLINE_3D:     184 → 184
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 86: Trazas 80835 a 81785 (951 trazas)
+  • FieldRecord:   185 → 185
+  • ShotPoint:     80836 → 81786
+  • INLINE_3D:     185 → 185
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 87: Trazas 81786 a 82736 (951 trazas)
+  • FieldRecord:   186 → 186
+  • ShotPoint:     81787 → 82737
+  • INLINE_3D:     186 → 186
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 88: Trazas 82737 a 83687 (951 trazas)
+  • FieldRecord:   187 → 187
+  • ShotPoint:     82738 → 83688
+  • INLINE_3D:     187 → 187
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 89: Trazas 83688 a 84638 (951 trazas)
+  • FieldRecord:   188 → 188
+  • ShotPoint:     83689 → 84639
+  • INLINE_3D:     188 → 188
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 90: Trazas 84639 a 85589 (951 trazas)
+  • FieldRecord:   189 → 189
+  • ShotPoint:     84640 → 85590
+  • INLINE_3D:     189 → 189
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 91: Trazas 85590 a 86540 (951 trazas)
+  • FieldRecord:   190 → 190
+  • ShotPoint:     85591 → 86541
+  • INLINE_3D:     190 → 190
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 92: Trazas 86541 a 87491 (951 trazas)
+  • FieldRecord:   191 → 191
+  • ShotPoint:     86542 → 87492
+  • INLINE_3D:     191 → 191
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 93: Trazas 87492 a 88442 (951 trazas)
+  • FieldRecord:   192 → 192
+  • ShotPoint:     87493 → 88443
+  • INLINE_3D:     192 → 192
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 94: Trazas 88443 a 89393 (951 trazas)
+  • FieldRecord:   193 → 193
+  • ShotPoint:     88444 → 89394
+  • INLINE_3D:     193 → 193
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 95: Trazas 89394 a 90344 (951 trazas)
+  • FieldRecord:   194 → 194
+  • ShotPoint:     89395 → 90345
+  • INLINE_3D:     194 → 194
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 96: Trazas 90345 a 91295 (951 trazas)
+  • FieldRecord:   195 → 195
+  • ShotPoint:     90346 → 91296
+  • INLINE_3D:     195 → 195
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 97: Trazas 91296 a 92246 (951 trazas)
+  • FieldRecord:   196 → 196
+  • ShotPoint:     91297 → 92247
+  • INLINE_3D:     196 → 196
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 98: Trazas 92247 a 93197 (951 trazas)
+  • FieldRecord:   197 → 197
+  • ShotPoint:     92248 → 93198
+  • INLINE_3D:     197 → 197
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 99: Trazas 93198 a 94148 (951 trazas)
+  • FieldRecord:   198 → 198
+  • ShotPoint:     93199 → 94149
+  • INLINE_3D:     198 → 198
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 100: Trazas 94149 a 95099 (951 trazas)
+  • FieldRecord:   199 → 199
+  • ShotPoint:     94150 → 95100
+  • INLINE_3D:     199 → 199
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 101: Trazas 95100 a 96050 (951 trazas)
+  • FieldRecord:   200 → 200
+  • ShotPoint:     95101 → 96051
+  • INLINE_3D:     200 → 200
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 102: Trazas 96051 a 97001 (951 trazas)
+  • FieldRecord:   201 → 201
+  • ShotPoint:     96052 → 97002
+  • INLINE_3D:     201 → 201
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 103: Trazas 97002 a 97952 (951 trazas)
+  • FieldRecord:   202 → 202
+  • ShotPoint:     97003 → 97953
+  • INLINE_3D:     202 → 202
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 104: Trazas 97953 a 98903 (951 trazas)
+  • FieldRecord:   203 → 203
+  • ShotPoint:     97954 → 98904
+  • INLINE_3D:     203 → 203
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 105: Trazas 98904 a 99854 (951 trazas)
+  • FieldRecord:   204 → 204
+  • ShotPoint:     98905 → 99855
+  • INLINE_3D:     204 → 204
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 106: Trazas 99855 a 100805 (951 trazas)
+  • FieldRecord:   205 → 205
+  • ShotPoint:     99856 → 100806
+  • INLINE_3D:     205 → 205
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 107: Trazas 100806 a 101756 (951 trazas)
+  • FieldRecord:   206 → 206
+  • ShotPoint:     100807 → 101757
+  • INLINE_3D:     206 → 206
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 108: Trazas 101757 a 102707 (951 trazas)
+  • FieldRecord:   207 → 207
+  • ShotPoint:     101758 → 102708
+  • INLINE_3D:     207 → 207
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 109: Trazas 102708 a 103658 (951 trazas)
+  • FieldRecord:   208 → 208
+  • ShotPoint:     102709 → 103659
+  • INLINE_3D:     208 → 208
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 110: Trazas 103659 a 104609 (951 trazas)
+  • FieldRecord:   209 → 209
+  • ShotPoint:     103660 → 104610
+  • INLINE_3D:     209 → 209
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 111: Trazas 104610 a 105560 (951 trazas)
+  • FieldRecord:   210 → 210
+  • ShotPoint:     104611 → 105561
+  • INLINE_3D:     210 → 210
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 112: Trazas 105561 a 106511 (951 trazas)
+  • FieldRecord:   211 → 211
+  • ShotPoint:     105562 → 106512
+  • INLINE_3D:     211 → 211
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 113: Trazas 106512 a 107462 (951 trazas)
+  • FieldRecord:   212 → 212
+  • ShotPoint:     106513 → 107463
+  • INLINE_3D:     212 → 212
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 114: Trazas 107463 a 108413 (951 trazas)
+  • FieldRecord:   213 → 213
+  • ShotPoint:     107464 → 108414
+  • INLINE_3D:     213 → 213
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 115: Trazas 108414 a 109364 (951 trazas)
+  • FieldRecord:   214 → 214
+  • ShotPoint:     108415 → 109365
+  • INLINE_3D:     214 → 214
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 116: Trazas 109365 a 110315 (951 trazas)
+  • FieldRecord:   215 → 215
+  • ShotPoint:     109366 → 110316
+  • INLINE_3D:     215 → 215
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 117: Trazas 110316 a 111266 (951 trazas)
+  • FieldRecord:   216 → 216
+  • ShotPoint:     110317 → 111267
+  • INLINE_3D:     216 → 216
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 118: Trazas 111267 a 112217 (951 trazas)
+  • FieldRecord:   217 → 217
+  • ShotPoint:     111268 → 112218
+  • INLINE_3D:     217 → 217
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 119: Trazas 112218 a 113168 (951 trazas)
+  • FieldRecord:   218 → 218
+  • ShotPoint:     112219 → 113169
+  • INLINE_3D:     218 → 218
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 120: Trazas 113169 a 114119 (951 trazas)
+  • FieldRecord:   219 → 219
+  • ShotPoint:     113170 → 114120
+  • INLINE_3D:     219 → 219
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 121: Trazas 114120 a 115070 (951 trazas)
+  • FieldRecord:   220 → 220
+  • ShotPoint:     114121 → 115071
+  • INLINE_3D:     220 → 220
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 122: Trazas 115071 a 116021 (951 trazas)
+  • FieldRecord:   221 → 221
+  • ShotPoint:     115072 → 116022
+  • INLINE_3D:     221 → 221
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 123: Trazas 116022 a 116972 (951 trazas)
+  • FieldRecord:   222 → 222
+  • ShotPoint:     116023 → 116973
+  • INLINE_3D:     222 → 222
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 124: Trazas 116973 a 117923 (951 trazas)
+  • FieldRecord:   223 → 223
+  • ShotPoint:     116974 → 117924
+  • INLINE_3D:     223 → 223
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 125: Trazas 117924 a 118874 (951 trazas)
+  • FieldRecord:   224 → 224
+  • ShotPoint:     117925 → 118875
+  • INLINE_3D:     224 → 224
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 126: Trazas 118875 a 119825 (951 trazas)
+  • FieldRecord:   225 → 225
+  • ShotPoint:     118876 → 119826
+  • INLINE_3D:     225 → 225
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 127: Trazas 119826 a 120776 (951 trazas)
+  • FieldRecord:   226 → 226
+  • ShotPoint:     119827 → 120777
+  • INLINE_3D:     226 → 226
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 128: Trazas 120777 a 121727 (951 trazas)
+  • FieldRecord:   227 → 227
+  • ShotPoint:     120778 → 121728
+  • INLINE_3D:     227 → 227
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 129: Trazas 121728 a 122678 (951 trazas)
+  • FieldRecord:   228 → 228
+  • ShotPoint:     121729 → 122679
+  • INLINE_3D:     228 → 228
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 130: Trazas 122679 a 123629 (951 trazas)
+  • FieldRecord:   229 → 229
+  • ShotPoint:     122680 → 123630
+  • INLINE_3D:     229 → 229
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 131: Trazas 123630 a 124580 (951 trazas)
+  • FieldRecord:   230 → 230
+  • ShotPoint:     123631 → 124581
+  • INLINE_3D:     230 → 230
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 132: Trazas 124581 a 125531 (951 trazas)
+  • FieldRecord:   231 → 231
+  • ShotPoint:     124582 → 125532
+  • INLINE_3D:     231 → 231
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 133: Trazas 125532 a 126482 (951 trazas)
+  • FieldRecord:   232 → 232
+  • ShotPoint:     125533 → 126483
+  • INLINE_3D:     232 → 232
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 134: Trazas 126483 a 127433 (951 trazas)
+  • FieldRecord:   233 → 233
+  • ShotPoint:     126484 → 127434
+  • INLINE_3D:     233 → 233
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 135: Trazas 127434 a 128384 (951 trazas)
+  • FieldRecord:   234 → 234
+  • ShotPoint:     127435 → 128385
+  • INLINE_3D:     234 → 234
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 136: Trazas 128385 a 129335 (951 trazas)
+  • FieldRecord:   235 → 235
+  • ShotPoint:     128386 → 129336
+  • INLINE_3D:     235 → 235
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 137: Trazas 129336 a 130286 (951 trazas)
+  • FieldRecord:   236 → 236
+  • ShotPoint:     129337 → 130287
+  • INLINE_3D:     236 → 236
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 138: Trazas 130287 a 131237 (951 trazas)
+  • FieldRecord:   237 → 237
+  • ShotPoint:     130288 → 131238
+  • INLINE_3D:     237 → 237
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 139: Trazas 131238 a 132188 (951 trazas)
+  • FieldRecord:   238 → 238
+  • ShotPoint:     131239 → 132189
+  • INLINE_3D:     238 → 238
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 140: Trazas 132189 a 133139 (951 trazas)
+  • FieldRecord:   239 → 239
+  • ShotPoint:     132190 → 133140
+  • INLINE_3D:     239 → 239
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 141: Trazas 133140 a 134090 (951 trazas)
+  • FieldRecord:   240 → 240
+  • ShotPoint:     133141 → 134091
+  • INLINE_3D:     240 → 240
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 142: Trazas 134091 a 135041 (951 trazas)
+  • FieldRecord:   241 → 241
+  • ShotPoint:     134092 → 135042
+  • INLINE_3D:     241 → 241
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 143: Trazas 135042 a 135992 (951 trazas)
+  • FieldRecord:   242 → 242
+  • ShotPoint:     135043 → 135993
+  • INLINE_3D:     242 → 242
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 144: Trazas 135993 a 136943 (951 trazas)
+  • FieldRecord:   243 → 243
+  • ShotPoint:     135994 → 136944
+  • INLINE_3D:     243 → 243
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 145: Trazas 136944 a 137894 (951 trazas)
+  • FieldRecord:   244 → 244
+  • ShotPoint:     136945 → 137895
+  • INLINE_3D:     244 → 244
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 146: Trazas 137895 a 138845 (951 trazas)
+  • FieldRecord:   245 → 245
+  • ShotPoint:     137896 → 138846
+  • INLINE_3D:     245 → 245
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 147: Trazas 138846 a 139796 (951 trazas)
+  • FieldRecord:   246 → 246
+  • ShotPoint:     138847 → 139797
+  • INLINE_3D:     246 → 246
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 148: Trazas 139797 a 140747 (951 trazas)
+  • FieldRecord:   247 → 247
+  • ShotPoint:     139798 → 140748
+  • INLINE_3D:     247 → 247
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 149: Trazas 140748 a 141698 (951 trazas)
+  • FieldRecord:   248 → 248
+  • ShotPoint:     140749 → 141699
+  • INLINE_3D:     248 → 248
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 150: Trazas 141699 a 142649 (951 trazas)
+  • FieldRecord:   249 → 249
+  • ShotPoint:     141700 → 142650
+  • INLINE_3D:     249 → 249
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 151: Trazas 142650 a 143600 (951 trazas)
+  • FieldRecord:   250 → 250
+  • ShotPoint:     142651 → 143601
+  • INLINE_3D:     250 → 250
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 152: Trazas 143601 a 144551 (951 trazas)
+  • FieldRecord:   251 → 251
+  • ShotPoint:     143602 → 144552
+  • INLINE_3D:     251 → 251
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 153: Trazas 144552 a 145502 (951 trazas)
+  • FieldRecord:   252 → 252
+  • ShotPoint:     144553 → 145503
+  • INLINE_3D:     252 → 252
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 154: Trazas 145503 a 146453 (951 trazas)
+  • FieldRecord:   253 → 253
+  • ShotPoint:     145504 → 146454
+  • INLINE_3D:     253 → 253
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 155: Trazas 146454 a 147404 (951 trazas)
+  • FieldRecord:   254 → 254
+  • ShotPoint:     146455 → 147405
+  • INLINE_3D:     254 → 254
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 156: Trazas 147405 a 148355 (951 trazas)
+  • FieldRecord:   255 → 255
+  • ShotPoint:     147406 → 148356
+  • INLINE_3D:     255 → 255
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 157: Trazas 148356 a 149306 (951 trazas)
+  • FieldRecord:   256 → 256
+  • ShotPoint:     148357 → 149307
+  • INLINE_3D:     256 → 256
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 158: Trazas 149307 a 150257 (951 trazas)
+  • FieldRecord:   257 → 257
+  • ShotPoint:     149308 → 150258
+  • INLINE_3D:     257 → 257
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 159: Trazas 150258 a 151208 (951 trazas)
+  • FieldRecord:   258 → 258
+  • ShotPoint:     150259 → 151209
+  • INLINE_3D:     258 → 258
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 160: Trazas 151209 a 152159 (951 trazas)
+  • FieldRecord:   259 → 259
+  • ShotPoint:     151210 → 152160
+  • INLINE_3D:     259 → 259
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 161: Trazas 152160 a 153110 (951 trazas)
+  • FieldRecord:   260 → 260
+  • ShotPoint:     152161 → 153111
+  • INLINE_3D:     260 → 260
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 162: Trazas 153111 a 154061 (951 trazas)
+  • FieldRecord:   261 → 261
+  • ShotPoint:     153112 → 154062
+  • INLINE_3D:     261 → 261
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 163: Trazas 154062 a 155012 (951 trazas)
+  • FieldRecord:   262 → 262
+  • ShotPoint:     154063 → 155013
+  • INLINE_3D:     262 → 262
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 164: Trazas 155013 a 155963 (951 trazas)
+  • FieldRecord:   263 → 263
+  • ShotPoint:     155014 → 155964
+  • INLINE_3D:     263 → 263
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 165: Trazas 155964 a 156914 (951 trazas)
+  • FieldRecord:   264 → 264
+  • ShotPoint:     155965 → 156915
+  • INLINE_3D:     264 → 264
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 166: Trazas 156915 a 157865 (951 trazas)
+  • FieldRecord:   265 → 265
+  • ShotPoint:     156916 → 157866
+  • INLINE_3D:     265 → 265
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 167: Trazas 157866 a 158816 (951 trazas)
+  • FieldRecord:   266 → 266
+  • ShotPoint:     157867 → 158817
+  • INLINE_3D:     266 → 266
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 168: Trazas 158817 a 159767 (951 trazas)
+  • FieldRecord:   267 → 267
+  • ShotPoint:     158818 → 159768
+  • INLINE_3D:     267 → 267
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 169: Trazas 159768 a 160718 (951 trazas)
+  • FieldRecord:   268 → 268
+  • ShotPoint:     159769 → 160719
+  • INLINE_3D:     268 → 268
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 170: Trazas 160719 a 161669 (951 trazas)
+  • FieldRecord:   269 → 269
+  • ShotPoint:     160720 → 161670
+  • INLINE_3D:     269 → 269
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 171: Trazas 161670 a 162620 (951 trazas)
+  • FieldRecord:   270 → 270
+  • ShotPoint:     161671 → 162621
+  • INLINE_3D:     270 → 270
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 172: Trazas 162621 a 163571 (951 trazas)
+  • FieldRecord:   271 → 271
+  • ShotPoint:     162622 → 163572
+  • INLINE_3D:     271 → 271
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 173: Trazas 163572 a 164522 (951 trazas)
+  • FieldRecord:   272 → 272
+  • ShotPoint:     163573 → 164523
+  • INLINE_3D:     272 → 272
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 174: Trazas 164523 a 165473 (951 trazas)
+  • FieldRecord:   273 → 273
+  • ShotPoint:     164524 → 165474
+  • INLINE_3D:     273 → 273
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 175: Trazas 165474 a 166424 (951 trazas)
+  • FieldRecord:   274 → 274
+  • ShotPoint:     165475 → 166425
+  • INLINE_3D:     274 → 274
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 176: Trazas 166425 a 167375 (951 trazas)
+  • FieldRecord:   275 → 275
+  • ShotPoint:     166426 → 167376
+  • INLINE_3D:     275 → 275
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 177: Trazas 167376 a 168326 (951 trazas)
+  • FieldRecord:   276 → 276
+  • ShotPoint:     167377 → 168327
+  • INLINE_3D:     276 → 276
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 178: Trazas 168327 a 169277 (951 trazas)
+  • FieldRecord:   277 → 277
+  • ShotPoint:     168328 → 169278
+  • INLINE_3D:     277 → 277
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 179: Trazas 169278 a 170228 (951 trazas)
+  • FieldRecord:   278 → 278
+  • ShotPoint:     169279 → 170229
+  • INLINE_3D:     278 → 278
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 180: Trazas 170229 a 171179 (951 trazas)
+  • FieldRecord:   279 → 279
+  • ShotPoint:     170230 → 171180
+  • INLINE_3D:     279 → 279
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 181: Trazas 171180 a 172130 (951 trazas)
+  • FieldRecord:   280 → 280
+  • ShotPoint:     171181 → 172131
+  • INLINE_3D:     280 → 280
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 182: Trazas 172131 a 173081 (951 trazas)
+  • FieldRecord:   281 → 281
+  • ShotPoint:     172132 → 173082
+  • INLINE_3D:     281 → 281
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 183: Trazas 173082 a 174032 (951 trazas)
+  • FieldRecord:   282 → 282
+  • ShotPoint:     173083 → 174033
+  • INLINE_3D:     282 → 282
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 184: Trazas 174033 a 174983 (951 trazas)
+  • FieldRecord:   283 → 283
+  • ShotPoint:     174034 → 174984
+  • INLINE_3D:     283 → 283
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 185: Trazas 174984 a 175934 (951 trazas)
+  • FieldRecord:   284 → 284
+  • ShotPoint:     174985 → 175935
+  • INLINE_3D:     284 → 284
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 186: Trazas 175935 a 176885 (951 trazas)
+  • FieldRecord:   285 → 285
+  • ShotPoint:     175936 → 176886
+  • INLINE_3D:     285 → 285
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 187: Trazas 176886 a 177836 (951 trazas)
+  • FieldRecord:   286 → 286
+  • ShotPoint:     176887 → 177837
+  • INLINE_3D:     286 → 286
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 188: Trazas 177837 a 178787 (951 trazas)
+  • FieldRecord:   287 → 287
+  • ShotPoint:     177838 → 178788
+  • INLINE_3D:     287 → 287
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 189: Trazas 178788 a 179738 (951 trazas)
+  • FieldRecord:   288 → 288
+  • ShotPoint:     178789 → 179739
+  • INLINE_3D:     288 → 288
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 190: Trazas 179739 a 180689 (951 trazas)
+  • FieldRecord:   289 → 289
+  • ShotPoint:     179740 → 180690
+  • INLINE_3D:     289 → 289
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 191: Trazas 180690 a 181640 (951 trazas)
+  • FieldRecord:   290 → 290
+  • ShotPoint:     180691 → 181641
+  • INLINE_3D:     290 → 290
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 192: Trazas 181641 a 182591 (951 trazas)
+  • FieldRecord:   291 → 291
+  • ShotPoint:     181642 → 182592
+  • INLINE_3D:     291 → 291
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 193: Trazas 182592 a 183542 (951 trazas)
+  • FieldRecord:   292 → 292
+  • ShotPoint:     182593 → 183543
+  • INLINE_3D:     292 → 292
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 194: Trazas 183543 a 184493 (951 trazas)
+  • FieldRecord:   293 → 293
+  • ShotPoint:     183544 → 184494
+  • INLINE_3D:     293 → 293
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 195: Trazas 184494 a 185444 (951 trazas)
+  • FieldRecord:   294 → 294
+  • ShotPoint:     184495 → 185445
+  • INLINE_3D:     294 → 294
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 196: Trazas 185445 a 186395 (951 trazas)
+  • FieldRecord:   295 → 295
+  • ShotPoint:     185446 → 186396
+  • INLINE_3D:     295 → 295
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 197: Trazas 186396 a 187346 (951 trazas)
+  • FieldRecord:   296 → 296
+  • ShotPoint:     186397 → 187347
+  • INLINE_3D:     296 → 296
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 198: Trazas 187347 a 188297 (951 trazas)
+  • FieldRecord:   297 → 297
+  • ShotPoint:     187348 → 188298
+  • INLINE_3D:     297 → 297
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 199: Trazas 188298 a 189248 (951 trazas)
+  • FieldRecord:   298 → 298
+  • ShotPoint:     188299 → 189249
+  • INLINE_3D:     298 → 298
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 200: Trazas 189249 a 190199 (951 trazas)
+  • FieldRecord:   299 → 299
+  • ShotPoint:     189250 → 190200
+  • INLINE_3D:     299 → 299
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 201: Trazas 190200 a 191150 (951 trazas)
+  • FieldRecord:   300 → 300
+  • ShotPoint:     190201 → 191151
+  • INLINE_3D:     300 → 300
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 202: Trazas 191151 a 192101 (951 trazas)
+  • FieldRecord:   301 → 301
+  • ShotPoint:     191152 → 192102
+  • INLINE_3D:     301 → 301
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 203: Trazas 192102 a 193052 (951 trazas)
+  • FieldRecord:   302 → 302
+  • ShotPoint:     192103 → 193053
+  • INLINE_3D:     302 → 302
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 204: Trazas 193053 a 194003 (951 trazas)
+  • FieldRecord:   303 → 303
+  • ShotPoint:     193054 → 194004
+  • INLINE_3D:     303 → 303
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 205: Trazas 194004 a 194954 (951 trazas)
+  • FieldRecord:   304 → 304
+  • ShotPoint:     194005 → 194955
+  • INLINE_3D:     304 → 304
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 206: Trazas 194955 a 195905 (951 trazas)
+  • FieldRecord:   305 → 305
+  • ShotPoint:     194956 → 195906
+  • INLINE_3D:     305 → 305
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 207: Trazas 195906 a 196856 (951 trazas)
+  • FieldRecord:   306 → 306
+  • ShotPoint:     195907 → 196857
+  • INLINE_3D:     306 → 306
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 208: Trazas 196857 a 197807 (951 trazas)
+  • FieldRecord:   307 → 307
+  • ShotPoint:     196858 → 197808
+  • INLINE_3D:     307 → 307
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 209: Trazas 197808 a 198758 (951 trazas)
+  • FieldRecord:   308 → 308
+  • ShotPoint:     197809 → 198759
+  • INLINE_3D:     308 → 308
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 210: Trazas 198759 a 199709 (951 trazas)
+  • FieldRecord:   309 → 309
+  • ShotPoint:     198760 → 199710
+  • INLINE_3D:     309 → 309
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 211: Trazas 199710 a 200660 (951 trazas)
+  • FieldRecord:   310 → 310
+  • ShotPoint:     199711 → 200661
+  • INLINE_3D:     310 → 310
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 212: Trazas 200661 a 201611 (951 trazas)
+  • FieldRecord:   311 → 311
+  • ShotPoint:     200662 → 201612
+  • INLINE_3D:     311 → 311
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 213: Trazas 201612 a 202562 (951 trazas)
+  • FieldRecord:   312 → 312
+  • ShotPoint:     201613 → 202563
+  • INLINE_3D:     312 → 312
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 214: Trazas 202563 a 203513 (951 trazas)
+  • FieldRecord:   313 → 313
+  • ShotPoint:     202564 → 203514
+  • INLINE_3D:     313 → 313
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 215: Trazas 203514 a 204464 (951 trazas)
+  • FieldRecord:   314 → 314
+  • ShotPoint:     203515 → 204465
+  • INLINE_3D:     314 → 314
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 216: Trazas 204465 a 205415 (951 trazas)
+  • FieldRecord:   315 → 315
+  • ShotPoint:     204466 → 205416
+  • INLINE_3D:     315 → 315
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 217: Trazas 205416 a 206366 (951 trazas)
+  • FieldRecord:   316 → 316
+  • ShotPoint:     205417 → 206367
+  • INLINE_3D:     316 → 316
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 218: Trazas 206367 a 207317 (951 trazas)
+  • FieldRecord:   317 → 317
+  • ShotPoint:     206368 → 207318
+  • INLINE_3D:     317 → 317
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 219: Trazas 207318 a 208268 (951 trazas)
+  • FieldRecord:   318 → 318
+  • ShotPoint:     207319 → 208269
+  • INLINE_3D:     318 → 318
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 220: Trazas 208269 a 209219 (951 trazas)
+  • FieldRecord:   319 → 319
+  • ShotPoint:     208270 → 209220
+  • INLINE_3D:     319 → 319
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 221: Trazas 209220 a 210170 (951 trazas)
+  • FieldRecord:   320 → 320
+  • ShotPoint:     209221 → 210171
+  • INLINE_3D:     320 → 320
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 222: Trazas 210171 a 211121 (951 trazas)
+  • FieldRecord:   321 → 321
+  • ShotPoint:     210172 → 211122
+  • INLINE_3D:     321 → 321
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 223: Trazas 211122 a 212072 (951 trazas)
+  • FieldRecord:   322 → 322
+  • ShotPoint:     211123 → 212073
+  • INLINE_3D:     322 → 322
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 224: Trazas 212073 a 213023 (951 trazas)
+  • FieldRecord:   323 → 323
+  • ShotPoint:     212074 → 213024
+  • INLINE_3D:     323 → 323
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 225: Trazas 213024 a 213974 (951 trazas)
+  • FieldRecord:   324 → 324
+  • ShotPoint:     213025 → 213975
+  • INLINE_3D:     324 → 324
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 226: Trazas 213975 a 214925 (951 trazas)
+  • FieldRecord:   325 → 325
+  • ShotPoint:     213976 → 214926
+  • INLINE_3D:     325 → 325
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 227: Trazas 214926 a 215876 (951 trazas)
+  • FieldRecord:   326 → 326
+  • ShotPoint:     214927 → 215877
+  • INLINE_3D:     326 → 326
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 228: Trazas 215877 a 216827 (951 trazas)
+  • FieldRecord:   327 → 327
+  • ShotPoint:     215878 → 216828
+  • INLINE_3D:     327 → 327
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 229: Trazas 216828 a 217778 (951 trazas)
+  • FieldRecord:   328 → 328
+  • ShotPoint:     216829 → 217779
+  • INLINE_3D:     328 → 328
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 230: Trazas 217779 a 218729 (951 trazas)
+  • FieldRecord:   329 → 329
+  • ShotPoint:     217780 → 218730
+  • INLINE_3D:     329 → 329
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 231: Trazas 218730 a 219680 (951 trazas)
+  • FieldRecord:   330 → 330
+  • ShotPoint:     218731 → 219681
+  • INLINE_3D:     330 → 330
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 232: Trazas 219681 a 220631 (951 trazas)
+  • FieldRecord:   331 → 331
+  • ShotPoint:     219682 → 220632
+  • INLINE_3D:     331 → 331
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 233: Trazas 220632 a 221582 (951 trazas)
+  • FieldRecord:   332 → 332
+  • ShotPoint:     220633 → 221583
+  • INLINE_3D:     332 → 332
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 234: Trazas 221583 a 222533 (951 trazas)
+  • FieldRecord:   333 → 333
+  • ShotPoint:     221584 → 222534
+  • INLINE_3D:     333 → 333
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 235: Trazas 222534 a 223484 (951 trazas)
+  • FieldRecord:   334 → 334
+  • ShotPoint:     222535 → 223485
+  • INLINE_3D:     334 → 334
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 236: Trazas 223485 a 224435 (951 trazas)
+  • FieldRecord:   335 → 335
+  • ShotPoint:     223486 → 224436
+  • INLINE_3D:     335 → 335
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 237: Trazas 224436 a 225386 (951 trazas)
+  • FieldRecord:   336 → 336
+  • ShotPoint:     224437 → 225387
+  • INLINE_3D:     336 → 336
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 238: Trazas 225387 a 226337 (951 trazas)
+  • FieldRecord:   337 → 337
+  • ShotPoint:     225388 → 226338
+  • INLINE_3D:     337 → 337
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 239: Trazas 226338 a 227288 (951 trazas)
+  • FieldRecord:   338 → 338
+  • ShotPoint:     226339 → 227289
+  • INLINE_3D:     338 → 338
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 240: Trazas 227289 a 228239 (951 trazas)
+  • FieldRecord:   339 → 339
+  • ShotPoint:     227290 → 228240
+  • INLINE_3D:     339 → 339
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 241: Trazas 228240 a 229190 (951 trazas)
+  • FieldRecord:   340 → 340
+  • ShotPoint:     228241 → 229191
+  • INLINE_3D:     340 → 340
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 242: Trazas 229191 a 230141 (951 trazas)
+  • FieldRecord:   341 → 341
+  • ShotPoint:     229192 → 230142
+  • INLINE_3D:     341 → 341
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 243: Trazas 230142 a 231092 (951 trazas)
+  • FieldRecord:   342 → 342
+  • ShotPoint:     230143 → 231093
+  • INLINE_3D:     342 → 342
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 244: Trazas 231093 a 232043 (951 trazas)
+  • FieldRecord:   343 → 343
+  • ShotPoint:     231094 → 232044
+  • INLINE_3D:     343 → 343
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 245: Trazas 232044 a 232994 (951 trazas)
+  • FieldRecord:   344 → 344
+  • ShotPoint:     232045 → 232995
+  • INLINE_3D:     344 → 344
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 246: Trazas 232995 a 233945 (951 trazas)
+  • FieldRecord:   345 → 345
+  • ShotPoint:     232996 → 233946
+  • INLINE_3D:     345 → 345
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 247: Trazas 233946 a 234896 (951 trazas)
+  • FieldRecord:   346 → 346
+  • ShotPoint:     233947 → 234897
+  • INLINE_3D:     346 → 346
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 248: Trazas 234897 a 235847 (951 trazas)
+  • FieldRecord:   347 → 347
+  • ShotPoint:     234898 → 235848
+  • INLINE_3D:     347 → 347
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 249: Trazas 235848 a 236798 (951 trazas)
+  • FieldRecord:   348 → 348
+  • ShotPoint:     235849 → 236799
+  • INLINE_3D:     348 → 348
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 250: Trazas 236799 a 237749 (951 trazas)
+  • FieldRecord:   349 → 349
+  • ShotPoint:     236800 → 237750
+  • INLINE_3D:     349 → 349
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 251: Trazas 237750 a 238700 (951 trazas)
+  • FieldRecord:   350 → 350
+  • ShotPoint:     237751 → 238701
+  • INLINE_3D:     350 → 350
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 252: Trazas 238701 a 239651 (951 trazas)
+  • FieldRecord:   351 → 351
+  • ShotPoint:     238702 → 239652
+  • INLINE_3D:     351 → 351
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 253: Trazas 239652 a 240602 (951 trazas)
+  • FieldRecord:   352 → 352
+  • ShotPoint:     239653 → 240603
+  • INLINE_3D:     352 → 352
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 254: Trazas 240603 a 241553 (951 trazas)
+  • FieldRecord:   353 → 353
+  • ShotPoint:     240604 → 241554
+  • INLINE_3D:     353 → 353
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 255: Trazas 241554 a 242504 (951 trazas)
+  • FieldRecord:   354 → 354
+  • ShotPoint:     241555 → 242505
+  • INLINE_3D:     354 → 354
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 256: Trazas 242505 a 243455 (951 trazas)
+  • FieldRecord:   355 → 355
+  • ShotPoint:     242506 → 243456
+  • INLINE_3D:     355 → 355
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 257: Trazas 243456 a 244406 (951 trazas)
+  • FieldRecord:   356 → 356
+  • ShotPoint:     243457 → 244407
+  • INLINE_3D:     356 → 356
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 258: Trazas 244407 a 245357 (951 trazas)
+  • FieldRecord:   357 → 357
+  • ShotPoint:     244408 → 245358
+  • INLINE_3D:     357 → 357
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 259: Trazas 245358 a 246308 (951 trazas)
+  • FieldRecord:   358 → 358
+  • ShotPoint:     245359 → 246309
+  • INLINE_3D:     358 → 358
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 260: Trazas 246309 a 247259 (951 trazas)
+  • FieldRecord:   359 → 359
+  • ShotPoint:     246310 → 247260
+  • INLINE_3D:     359 → 359
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 261: Trazas 247260 a 248210 (951 trazas)
+  • FieldRecord:   360 → 360
+  • ShotPoint:     247261 → 248211
+  • INLINE_3D:     360 → 360
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 262: Trazas 248211 a 249161 (951 trazas)
+  • FieldRecord:   361 → 361
+  • ShotPoint:     248212 → 249162
+  • INLINE_3D:     361 → 361
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 263: Trazas 249162 a 250112 (951 trazas)
+  • FieldRecord:   362 → 362
+  • ShotPoint:     249163 → 250113
+  • INLINE_3D:     362 → 362
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 264: Trazas 250113 a 251063 (951 trazas)
+  • FieldRecord:   363 → 363
+  • ShotPoint:     250114 → 251064
+  • INLINE_3D:     363 → 363
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 265: Trazas 251064 a 252014 (951 trazas)
+  • FieldRecord:   364 → 364
+  • ShotPoint:     251065 → 252015
+  • INLINE_3D:     364 → 364
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 266: Trazas 252015 a 252965 (951 trazas)
+  • FieldRecord:   365 → 365
+  • ShotPoint:     252016 → 252966
+  • INLINE_3D:     365 → 365
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 267: Trazas 252966 a 253916 (951 trazas)
+  • FieldRecord:   366 → 366
+  • ShotPoint:     252967 → 253917
+  • INLINE_3D:     366 → 366
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 268: Trazas 253917 a 254867 (951 trazas)
+  • FieldRecord:   367 → 367
+  • ShotPoint:     253918 → 254868
+  • INLINE_3D:     367 → 367
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 269: Trazas 254868 a 255818 (951 trazas)
+  • FieldRecord:   368 → 368
+  • ShotPoint:     254869 → 255819
+  • INLINE_3D:     368 → 368
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 270: Trazas 255819 a 256769 (951 trazas)
+  • FieldRecord:   369 → 369
+  • ShotPoint:     255820 → 256770
+  • INLINE_3D:     369 → 369
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 271: Trazas 256770 a 257720 (951 trazas)
+  • FieldRecord:   370 → 370
+  • ShotPoint:     256771 → 257721
+  • INLINE_3D:     370 → 370
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 272: Trazas 257721 a 258671 (951 trazas)
+  • FieldRecord:   371 → 371
+  • ShotPoint:     257722 → 258672
+  • INLINE_3D:     371 → 371
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 273: Trazas 258672 a 259622 (951 trazas)
+  • FieldRecord:   372 → 372
+  • ShotPoint:     258673 → 259623
+  • INLINE_3D:     372 → 372
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 274: Trazas 259623 a 260573 (951 trazas)
+  • FieldRecord:   373 → 373
+  • ShotPoint:     259624 → 260574
+  • INLINE_3D:     373 → 373
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 275: Trazas 260574 a 261524 (951 trazas)
+  • FieldRecord:   374 → 374
+  • ShotPoint:     260575 → 261525
+  • INLINE_3D:     374 → 374
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 276: Trazas 261525 a 262475 (951 trazas)
+  • FieldRecord:   375 → 375
+  • ShotPoint:     261526 → 262476
+  • INLINE_3D:     375 → 375
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 277: Trazas 262476 a 263426 (951 trazas)
+  • FieldRecord:   376 → 376
+  • ShotPoint:     262477 → 263427
+  • INLINE_3D:     376 → 376
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 278: Trazas 263427 a 264377 (951 trazas)
+  • FieldRecord:   377 → 377
+  • ShotPoint:     263428 → 264378
+  • INLINE_3D:     377 → 377
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 279: Trazas 264378 a 265328 (951 trazas)
+  • FieldRecord:   378 → 378
+  • ShotPoint:     264379 → 265329
+  • INLINE_3D:     378 → 378
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 280: Trazas 265329 a 266279 (951 trazas)
+  • FieldRecord:   379 → 379
+  • ShotPoint:     265330 → 266280
+  • INLINE_3D:     379 → 379
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 281: Trazas 266280 a 267230 (951 trazas)
+  • FieldRecord:   380 → 380
+  • ShotPoint:     266281 → 267231
+  • INLINE_3D:     380 → 380
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 282: Trazas 267231 a 268181 (951 trazas)
+  • FieldRecord:   381 → 381
+  • ShotPoint:     267232 → 268182
+  • INLINE_3D:     381 → 381
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 283: Trazas 268182 a 269132 (951 trazas)
+  • FieldRecord:   382 → 382
+  • ShotPoint:     268183 → 269133
+  • INLINE_3D:     382 → 382
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 284: Trazas 269133 a 270083 (951 trazas)
+  • FieldRecord:   383 → 383
+  • ShotPoint:     269134 → 270084
+  • INLINE_3D:     383 → 383
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 285: Trazas 270084 a 271034 (951 trazas)
+  • FieldRecord:   384 → 384
+  • ShotPoint:     270085 → 271035
+  • INLINE_3D:     384 → 384
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 286: Trazas 271035 a 271985 (951 trazas)
+  • FieldRecord:   385 → 385
+  • ShotPoint:     271036 → 271986
+  • INLINE_3D:     385 → 385
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 287: Trazas 271986 a 272936 (951 trazas)
+  • FieldRecord:   386 → 386
+  • ShotPoint:     271987 → 272937
+  • INLINE_3D:     386 → 386
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 288: Trazas 272937 a 273887 (951 trazas)
+  • FieldRecord:   387 → 387
+  • ShotPoint:     272938 → 273888
+  • INLINE_3D:     387 → 387
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 289: Trazas 273888 a 274838 (951 trazas)
+  • FieldRecord:   388 → 388
+  • ShotPoint:     273889 → 274839
+  • INLINE_3D:     388 → 388
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 290: Trazas 274839 a 275789 (951 trazas)
+  • FieldRecord:   389 → 389
+  • ShotPoint:     274840 → 275790
+  • INLINE_3D:     389 → 389
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 291: Trazas 275790 a 276740 (951 trazas)
+  • FieldRecord:   390 → 390
+  • ShotPoint:     275791 → 276741
+  • INLINE_3D:     390 → 390
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 292: Trazas 276741 a 277691 (951 trazas)
+  • FieldRecord:   391 → 391
+  • ShotPoint:     276742 → 277692
+  • INLINE_3D:     391 → 391
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 293: Trazas 277692 a 278642 (951 trazas)
+  • FieldRecord:   392 → 392
+  • ShotPoint:     277693 → 278643
+  • INLINE_3D:     392 → 392
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 294: Trazas 278643 a 279593 (951 trazas)
+  • FieldRecord:   393 → 393
+  • ShotPoint:     278644 → 279594
+  • INLINE_3D:     393 → 393
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 295: Trazas 279594 a 280544 (951 trazas)
+  • FieldRecord:   394 → 394
+  • ShotPoint:     279595 → 280545
+  • INLINE_3D:     394 → 394
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 296: Trazas 280545 a 281495 (951 trazas)
+  • FieldRecord:   395 → 395
+  • ShotPoint:     280546 → 281496
+  • INLINE_3D:     395 → 395
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 297: Trazas 281496 a 282446 (951 trazas)
+  • FieldRecord:   396 → 396
+  • ShotPoint:     281497 → 282447
+  • INLINE_3D:     396 → 396
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 298: Trazas 282447 a 283397 (951 trazas)
+  • FieldRecord:   397 → 397
+  • ShotPoint:     282448 → 283398
+  • INLINE_3D:     397 → 397
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 299: Trazas 283398 a 284348 (951 trazas)
+  • FieldRecord:   398 → 398
+  • ShotPoint:     283399 → 284349
+  • INLINE_3D:     398 → 398
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 300: Trazas 284349 a 285299 (951 trazas)
+  • FieldRecord:   399 → 399
+  • ShotPoint:     284350 → 285300
+  • INLINE_3D:     399 → 399
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 301: Trazas 285300 a 286250 (951 trazas)
+  • FieldRecord:   400 → 400
+  • ShotPoint:     285301 → 286251
+  • INLINE_3D:     400 → 400
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 302: Trazas 286251 a 287201 (951 trazas)
+  • FieldRecord:   401 → 401
+  • ShotPoint:     286252 → 287202
+  • INLINE_3D:     401 → 401
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 303: Trazas 287202 a 288152 (951 trazas)
+  • FieldRecord:   402 → 402
+  • ShotPoint:     287203 → 288153
+  • INLINE_3D:     402 → 402
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 304: Trazas 288153 a 289103 (951 trazas)
+  • FieldRecord:   403 → 403
+  • ShotPoint:     288154 → 289104
+  • INLINE_3D:     403 → 403
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 305: Trazas 289104 a 290054 (951 trazas)
+  • FieldRecord:   404 → 404
+  • ShotPoint:     289105 → 290055
+  • INLINE_3D:     404 → 404
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 306: Trazas 290055 a 291005 (951 trazas)
+  • FieldRecord:   405 → 405
+  • ShotPoint:     290056 → 291006
+  • INLINE_3D:     405 → 405
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 307: Trazas 291006 a 291956 (951 trazas)
+  • FieldRecord:   406 → 406
+  • ShotPoint:     291007 → 291957
+  • INLINE_3D:     406 → 406
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 308: Trazas 291957 a 292907 (951 trazas)
+  • FieldRecord:   407 → 407
+  • ShotPoint:     291958 → 292908
+  • INLINE_3D:     407 → 407
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 309: Trazas 292908 a 293858 (951 trazas)
+  • FieldRecord:   408 → 408
+  • ShotPoint:     292909 → 293859
+  • INLINE_3D:     408 → 408
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 310: Trazas 293859 a 294809 (951 trazas)
+  • FieldRecord:   409 → 409
+  • ShotPoint:     293860 → 294810
+  • INLINE_3D:     409 → 409
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 311: Trazas 294810 a 295760 (951 trazas)
+  • FieldRecord:   410 → 410
+  • ShotPoint:     294811 → 295761
+  • INLINE_3D:     410 → 410
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 312: Trazas 295761 a 296711 (951 trazas)
+  • FieldRecord:   411 → 411
+  • ShotPoint:     295762 → 296712
+  • INLINE_3D:     411 → 411
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 313: Trazas 296712 a 297662 (951 trazas)
+  • FieldRecord:   412 → 412
+  • ShotPoint:     296713 → 297663
+  • INLINE_3D:     412 → 412
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 314: Trazas 297663 a 298613 (951 trazas)
+  • FieldRecord:   413 → 413
+  • ShotPoint:     297664 → 298614
+  • INLINE_3D:     413 → 413
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 315: Trazas 298614 a 299564 (951 trazas)
+  • FieldRecord:   414 → 414
+  • ShotPoint:     298615 → 299565
+  • INLINE_3D:     414 → 414
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 316: Trazas 299565 a 300515 (951 trazas)
+  • FieldRecord:   415 → 415
+  • ShotPoint:     299566 → 300516
+  • INLINE_3D:     415 → 415
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 317: Trazas 300516 a 301466 (951 trazas)
+  • FieldRecord:   416 → 416
+  • ShotPoint:     300517 → 301467
+  • INLINE_3D:     416 → 416
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 318: Trazas 301467 a 302417 (951 trazas)
+  • FieldRecord:   417 → 417
+  • ShotPoint:     301468 → 302418
+  • INLINE_3D:     417 → 417
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 319: Trazas 302418 a 303368 (951 trazas)
+  • FieldRecord:   418 → 418
+  • ShotPoint:     302419 → 303369
+  • INLINE_3D:     418 → 418
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 320: Trazas 303369 a 304319 (951 trazas)
+  • FieldRecord:   419 → 419
+  • ShotPoint:     303370 → 304320
+  • INLINE_3D:     419 → 419
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 321: Trazas 304320 a 305270 (951 trazas)
+  • FieldRecord:   420 → 420
+  • ShotPoint:     304321 → 305271
+  • INLINE_3D:     420 → 420
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 322: Trazas 305271 a 306221 (951 trazas)
+  • FieldRecord:   421 → 421
+  • ShotPoint:     305272 → 306222
+  • INLINE_3D:     421 → 421
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 323: Trazas 306222 a 307172 (951 trazas)
+  • FieldRecord:   422 → 422
+  • ShotPoint:     306223 → 307173
+  • INLINE_3D:     422 → 422
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 324: Trazas 307173 a 308123 (951 trazas)
+  • FieldRecord:   423 → 423
+  • ShotPoint:     307174 → 308124
+  • INLINE_3D:     423 → 423
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 325: Trazas 308124 a 309074 (951 trazas)
+  • FieldRecord:   424 → 424
+  • ShotPoint:     308125 → 309075
+  • INLINE_3D:     424 → 424
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 326: Trazas 309075 a 310025 (951 trazas)
+  • FieldRecord:   425 → 425
+  • ShotPoint:     309076 → 310026
+  • INLINE_3D:     425 → 425
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 327: Trazas 310026 a 310976 (951 trazas)
+  • FieldRecord:   426 → 426
+  • ShotPoint:     310027 → 310977
+  • INLINE_3D:     426 → 426
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 328: Trazas 310977 a 311927 (951 trazas)
+  • FieldRecord:   427 → 427
+  • ShotPoint:     310978 → 311928
+  • INLINE_3D:     427 → 427
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 329: Trazas 311928 a 312878 (951 trazas)
+  • FieldRecord:   428 → 428
+  • ShotPoint:     311929 → 312879
+  • INLINE_3D:     428 → 428
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 330: Trazas 312879 a 313829 (951 trazas)
+  • FieldRecord:   429 → 429
+  • ShotPoint:     312880 → 313830
+  • INLINE_3D:     429 → 429
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 331: Trazas 313830 a 314780 (951 trazas)
+  • FieldRecord:   430 → 430
+  • ShotPoint:     313831 → 314781
+  • INLINE_3D:     430 → 430
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 332: Trazas 314781 a 315731 (951 trazas)
+  • FieldRecord:   431 → 431
+  • ShotPoint:     314782 → 315732
+  • INLINE_3D:     431 → 431
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 333: Trazas 315732 a 316682 (951 trazas)
+  • FieldRecord:   432 → 432
+  • ShotPoint:     315733 → 316683
+  • INLINE_3D:     432 → 432
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 334: Trazas 316683 a 317633 (951 trazas)
+  • FieldRecord:   433 → 433
+  • ShotPoint:     316684 → 317634
+  • INLINE_3D:     433 → 433
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 335: Trazas 317634 a 318584 (951 trazas)
+  • FieldRecord:   434 → 434
+  • ShotPoint:     317635 → 318585
+  • INLINE_3D:     434 → 434
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 336: Trazas 318585 a 319535 (951 trazas)
+  • FieldRecord:   435 → 435
+  • ShotPoint:     318586 → 319536
+  • INLINE_3D:     435 → 435
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 337: Trazas 319536 a 320486 (951 trazas)
+  • FieldRecord:   436 → 436
+  • ShotPoint:     319537 → 320487
+  • INLINE_3D:     436 → 436
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 338: Trazas 320487 a 321437 (951 trazas)
+  • FieldRecord:   437 → 437
+  • ShotPoint:     320488 → 321438
+  • INLINE_3D:     437 → 437
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 339: Trazas 321438 a 322388 (951 trazas)
+  • FieldRecord:   438 → 438
+  • ShotPoint:     321439 → 322389
+  • INLINE_3D:     438 → 438
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 340: Trazas 322389 a 323339 (951 trazas)
+  • FieldRecord:   439 → 439
+  • ShotPoint:     322390 → 323340
+  • INLINE_3D:     439 → 439
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 341: Trazas 323340 a 324290 (951 trazas)
+  • FieldRecord:   440 → 440
+  • ShotPoint:     323341 → 324291
+  • INLINE_3D:     440 → 440
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 342: Trazas 324291 a 325241 (951 trazas)
+  • FieldRecord:   441 → 441
+  • ShotPoint:     324292 → 325242
+  • INLINE_3D:     441 → 441
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 343: Trazas 325242 a 326192 (951 trazas)
+  • FieldRecord:   442 → 442
+  • ShotPoint:     325243 → 326193
+  • INLINE_3D:     442 → 442
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 344: Trazas 326193 a 327143 (951 trazas)
+  • FieldRecord:   443 → 443
+  • ShotPoint:     326194 → 327144
+  • INLINE_3D:     443 → 443
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 345: Trazas 327144 a 328094 (951 trazas)
+  • FieldRecord:   444 → 444
+  • ShotPoint:     327145 → 328095
+  • INLINE_3D:     444 → 444
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 346: Trazas 328095 a 329045 (951 trazas)
+  • FieldRecord:   445 → 445
+  • ShotPoint:     328096 → 329046
+  • INLINE_3D:     445 → 445
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 347: Trazas 329046 a 329996 (951 trazas)
+  • FieldRecord:   446 → 446
+  • ShotPoint:     329047 → 329997
+  • INLINE_3D:     446 → 446
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 348: Trazas 329997 a 330947 (951 trazas)
+  • FieldRecord:   447 → 447
+  • ShotPoint:     329998 → 330948
+  • INLINE_3D:     447 → 447
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 349: Trazas 330948 a 331898 (951 trazas)
+  • FieldRecord:   448 → 448
+  • ShotPoint:     330949 → 331899
+  • INLINE_3D:     448 → 448
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 350: Trazas 331899 a 332849 (951 trazas)
+  • FieldRecord:   449 → 449
+  • ShotPoint:     331900 → 332850
+  • INLINE_3D:     449 → 449
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 351: Trazas 332850 a 333800 (951 trazas)
+  • FieldRecord:   450 → 450
+  • ShotPoint:     332851 → 333801
+  • INLINE_3D:     450 → 450
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 352: Trazas 333801 a 334751 (951 trazas)
+  • FieldRecord:   451 → 451
+  • ShotPoint:     333802 → 334752
+  • INLINE_3D:     451 → 451
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 353: Trazas 334752 a 335702 (951 trazas)
+  • FieldRecord:   452 → 452
+  • ShotPoint:     334753 → 335703
+  • INLINE_3D:     452 → 452
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 354: Trazas 335703 a 336653 (951 trazas)
+  • FieldRecord:   453 → 453
+  • ShotPoint:     335704 → 336654
+  • INLINE_3D:     453 → 453
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 355: Trazas 336654 a 337604 (951 trazas)
+  • FieldRecord:   454 → 454
+  • ShotPoint:     336655 → 337605
+  • INLINE_3D:     454 → 454
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 356: Trazas 337605 a 338555 (951 trazas)
+  • FieldRecord:   455 → 455
+  • ShotPoint:     337606 → 338556
+  • INLINE_3D:     455 → 455
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 357: Trazas 338556 a 339506 (951 trazas)
+  • FieldRecord:   456 → 456
+  • ShotPoint:     338557 → 339507
+  • INLINE_3D:     456 → 456
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 358: Trazas 339507 a 340457 (951 trazas)
+  • FieldRecord:   457 → 457
+  • ShotPoint:     339508 → 340458
+  • INLINE_3D:     457 → 457
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 359: Trazas 340458 a 341408 (951 trazas)
+  • FieldRecord:   458 → 458
+  • ShotPoint:     340459 → 341409
+  • INLINE_3D:     458 → 458
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 360: Trazas 341409 a 342359 (951 trazas)
+  • FieldRecord:   459 → 459
+  • ShotPoint:     341410 → 342360
+  • INLINE_3D:     459 → 459
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 361: Trazas 342360 a 343310 (951 trazas)
+  • FieldRecord:   460 → 460
+  • ShotPoint:     342361 → 343311
+  • INLINE_3D:     460 → 460
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 362: Trazas 343311 a 344261 (951 trazas)
+  • FieldRecord:   461 → 461
+  • ShotPoint:     343312 → 344262
+  • INLINE_3D:     461 → 461
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 363: Trazas 344262 a 345212 (951 trazas)
+  • FieldRecord:   462 → 462
+  • ShotPoint:     344263 → 345213
+  • INLINE_3D:     462 → 462
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 364: Trazas 345213 a 346163 (951 trazas)
+  • FieldRecord:   463 → 463
+  • ShotPoint:     345214 → 346164
+  • INLINE_3D:     463 → 463
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 365: Trazas 346164 a 347114 (951 trazas)
+  • FieldRecord:   464 → 464
+  • ShotPoint:     346165 → 347115
+  • INLINE_3D:     464 → 464
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 366: Trazas 347115 a 348065 (951 trazas)
+  • FieldRecord:   465 → 465
+  • ShotPoint:     347116 → 348066
+  • INLINE_3D:     465 → 465
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 367: Trazas 348066 a 349016 (951 trazas)
+  • FieldRecord:   466 → 466
+  • ShotPoint:     348067 → 349017
+  • INLINE_3D:     466 → 466
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 368: Trazas 349017 a 349967 (951 trazas)
+  • FieldRecord:   467 → 467
+  • ShotPoint:     349018 → 349968
+  • INLINE_3D:     467 → 467
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 369: Trazas 349968 a 350918 (951 trazas)
+  • FieldRecord:   468 → 468
+  • ShotPoint:     349969 → 350919
+  • INLINE_3D:     468 → 468
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 370: Trazas 350919 a 351869 (951 trazas)
+  • FieldRecord:   469 → 469
+  • ShotPoint:     350920 → 351870
+  • INLINE_3D:     469 → 469
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 371: Trazas 351870 a 352820 (951 trazas)
+  • FieldRecord:   470 → 470
+  • ShotPoint:     351871 → 352821
+  • INLINE_3D:     470 → 470
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 372: Trazas 352821 a 353771 (951 trazas)
+  • FieldRecord:   471 → 471
+  • ShotPoint:     352822 → 353772
+  • INLINE_3D:     471 → 471
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 373: Trazas 353772 a 354722 (951 trazas)
+  • FieldRecord:   472 → 472
+  • ShotPoint:     353773 → 354723
+  • INLINE_3D:     472 → 472
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 374: Trazas 354723 a 355673 (951 trazas)
+  • FieldRecord:   473 → 473
+  • ShotPoint:     354724 → 355674
+  • INLINE_3D:     473 → 473
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 375: Trazas 355674 a 356624 (951 trazas)
+  • FieldRecord:   474 → 474
+  • ShotPoint:     355675 → 356625
+  • INLINE_3D:     474 → 474
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 376: Trazas 356625 a 357575 (951 trazas)
+  • FieldRecord:   475 → 475
+  • ShotPoint:     356626 → 357576
+  • INLINE_3D:     475 → 475
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 377: Trazas 357576 a 358526 (951 trazas)
+  • FieldRecord:   476 → 476
+  • ShotPoint:     357577 → 358527
+  • INLINE_3D:     476 → 476
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 378: Trazas 358527 a 359477 (951 trazas)
+  • FieldRecord:   477 → 477
+  • ShotPoint:     358528 → 359478
+  • INLINE_3D:     477 → 477
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 379: Trazas 359478 a 360428 (951 trazas)
+  • FieldRecord:   478 → 478
+  • ShotPoint:     359479 → 360429
+  • INLINE_3D:     478 → 478
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 380: Trazas 360429 a 361379 (951 trazas)
+  • FieldRecord:   479 → 479
+  • ShotPoint:     360430 → 361380
+  • INLINE_3D:     479 → 479
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 381: Trazas 361380 a 362330 (951 trazas)
+  • FieldRecord:   480 → 480
+  • ShotPoint:     361381 → 362331
+  • INLINE_3D:     480 → 480
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 382: Trazas 362331 a 363281 (951 trazas)
+  • FieldRecord:   481 → 481
+  • ShotPoint:     362332 → 363282
+  • INLINE_3D:     481 → 481
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 383: Trazas 363282 a 364232 (951 trazas)
+  • FieldRecord:   482 → 482
+  • ShotPoint:     363283 → 364233
+  • INLINE_3D:     482 → 482
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 384: Trazas 364233 a 365183 (951 trazas)
+  • FieldRecord:   483 → 483
+  • ShotPoint:     364234 → 365184
+  • INLINE_3D:     483 → 483
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 385: Trazas 365184 a 366134 (951 trazas)
+  • FieldRecord:   484 → 484
+  • ShotPoint:     365185 → 366135
+  • INLINE_3D:     484 → 484
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 386: Trazas 366135 a 367085 (951 trazas)
+  • FieldRecord:   485 → 485
+  • ShotPoint:     366136 → 367086
+  • INLINE_3D:     485 → 485
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 387: Trazas 367086 a 368036 (951 trazas)
+  • FieldRecord:   486 → 486
+  • ShotPoint:     367087 → 368037
+  • INLINE_3D:     486 → 486
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 388: Trazas 368037 a 368987 (951 trazas)
+  • FieldRecord:   487 → 487
+  • ShotPoint:     368038 → 368988
+  • INLINE_3D:     487 → 487
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 389: Trazas 368988 a 369938 (951 trazas)
+  • FieldRecord:   488 → 488
+  • ShotPoint:     368989 → 369939
+  • INLINE_3D:     488 → 488
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 390: Trazas 369939 a 370889 (951 trazas)
+  • FieldRecord:   489 → 489
+  • ShotPoint:     369940 → 370890
+  • INLINE_3D:     489 → 489
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 391: Trazas 370890 a 371840 (951 trazas)
+  • FieldRecord:   490 → 490
+  • ShotPoint:     370891 → 371841
+  • INLINE_3D:     490 → 490
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 392: Trazas 371841 a 372791 (951 trazas)
+  • FieldRecord:   491 → 491
+  • ShotPoint:     371842 → 372792
+  • INLINE_3D:     491 → 491
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 393: Trazas 372792 a 373742 (951 trazas)
+  • FieldRecord:   492 → 492
+  • ShotPoint:     372793 → 373743
+  • INLINE_3D:     492 → 492
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 394: Trazas 373743 a 374693 (951 trazas)
+  • FieldRecord:   493 → 493
+  • ShotPoint:     373744 → 374694
+  • INLINE_3D:     493 → 493
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 395: Trazas 374694 a 375644 (951 trazas)
+  • FieldRecord:   494 → 494
+  • ShotPoint:     374695 → 375645
+  • INLINE_3D:     494 → 494
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 396: Trazas 375645 a 376595 (951 trazas)
+  • FieldRecord:   495 → 495
+  • ShotPoint:     375646 → 376596
+  • INLINE_3D:     495 → 495
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 397: Trazas 376596 a 377546 (951 trazas)
+  • FieldRecord:   496 → 496
+  • ShotPoint:     376597 → 377547
+  • INLINE_3D:     496 → 496
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 398: Trazas 377547 a 378497 (951 trazas)
+  • FieldRecord:   497 → 497
+  • ShotPoint:     377548 → 378498
+  • INLINE_3D:     497 → 497
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 399: Trazas 378498 a 379448 (951 trazas)
+  • FieldRecord:   498 → 498
+  • ShotPoint:     378499 → 379449
+  • INLINE_3D:     498 → 498
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 400: Trazas 379449 a 380399 (951 trazas)
+  • FieldRecord:   499 → 499
+  • ShotPoint:     379450 → 380400
+  • INLINE_3D:     499 → 499
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 401: Trazas 380400 a 381350 (951 trazas)
+  • FieldRecord:   500 → 500
+  • ShotPoint:     380401 → 381351
+  • INLINE_3D:     500 → 500
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 402: Trazas 381351 a 382301 (951 trazas)
+  • FieldRecord:   501 → 501
+  • ShotPoint:     381352 → 382302
+  • INLINE_3D:     501 → 501
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 403: Trazas 382302 a 383252 (951 trazas)
+  • FieldRecord:   502 → 502
+  • ShotPoint:     382303 → 383253
+  • INLINE_3D:     502 → 502
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 404: Trazas 383253 a 384203 (951 trazas)
+  • FieldRecord:   503 → 503
+  • ShotPoint:     383254 → 384204
+  • INLINE_3D:     503 → 503
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 405: Trazas 384204 a 385154 (951 trazas)
+  • FieldRecord:   504 → 504
+  • ShotPoint:     384205 → 385155
+  • INLINE_3D:     504 → 504
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 406: Trazas 385155 a 386105 (951 trazas)
+  • FieldRecord:   505 → 505
+  • ShotPoint:     385156 → 386106
+  • INLINE_3D:     505 → 505
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 407: Trazas 386106 a 387056 (951 trazas)
+  • FieldRecord:   506 → 506
+  • ShotPoint:     386107 → 387057
+  • INLINE_3D:     506 → 506
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 408: Trazas 387057 a 388007 (951 trazas)
+  • FieldRecord:   507 → 507
+  • ShotPoint:     387058 → 388008
+  • INLINE_3D:     507 → 507
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 409: Trazas 388008 a 388958 (951 trazas)
+  • FieldRecord:   508 → 508
+  • ShotPoint:     388009 → 388959
+  • INLINE_3D:     508 → 508
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 410: Trazas 388959 a 389909 (951 trazas)
+  • FieldRecord:   509 → 509
+  • ShotPoint:     388960 → 389910
+  • INLINE_3D:     509 → 509
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 411: Trazas 389910 a 390860 (951 trazas)
+  • FieldRecord:   510 → 510
+  • ShotPoint:     389911 → 390861
+  • INLINE_3D:     510 → 510
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 412: Trazas 390861 a 391811 (951 trazas)
+  • FieldRecord:   511 → 511
+  • ShotPoint:     390862 → 391812
+  • INLINE_3D:     511 → 511
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 413: Trazas 391812 a 392762 (951 trazas)
+  • FieldRecord:   512 → 512
+  • ShotPoint:     391813 → 392763
+  • INLINE_3D:     512 → 512
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 414: Trazas 392763 a 393713 (951 trazas)
+  • FieldRecord:   513 → 513
+  • ShotPoint:     392764 → 393714
+  • INLINE_3D:     513 → 513
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 415: Trazas 393714 a 394664 (951 trazas)
+  • FieldRecord:   514 → 514
+  • ShotPoint:     393715 → 394665
+  • INLINE_3D:     514 → 514
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 416: Trazas 394665 a 395615 (951 trazas)
+  • FieldRecord:   515 → 515
+  • ShotPoint:     394666 → 395616
+  • INLINE_3D:     515 → 515
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 417: Trazas 395616 a 396566 (951 trazas)
+  • FieldRecord:   516 → 516
+  • ShotPoint:     395617 → 396567
+  • INLINE_3D:     516 → 516
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 418: Trazas 396567 a 397517 (951 trazas)
+  • FieldRecord:   517 → 517
+  • ShotPoint:     396568 → 397518
+  • INLINE_3D:     517 → 517
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 419: Trazas 397518 a 398468 (951 trazas)
+  • FieldRecord:   518 → 518
+  • ShotPoint:     397519 → 398469
+  • INLINE_3D:     518 → 518
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 420: Trazas 398469 a 399419 (951 trazas)
+  • FieldRecord:   519 → 519
+  • ShotPoint:     398470 → 399420
+  • INLINE_3D:     519 → 519
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 421: Trazas 399420 a 400370 (951 trazas)
+  • FieldRecord:   520 → 520
+  • ShotPoint:     399421 → 400371
+  • INLINE_3D:     520 → 520
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 422: Trazas 400371 a 401321 (951 trazas)
+  • FieldRecord:   521 → 521
+  • ShotPoint:     400372 → 401322
+  • INLINE_3D:     521 → 521
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 423: Trazas 401322 a 402272 (951 trazas)
+  • FieldRecord:   522 → 522
+  • ShotPoint:     401323 → 402273
+  • INLINE_3D:     522 → 522
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 424: Trazas 402273 a 403223 (951 trazas)
+  • FieldRecord:   523 → 523
+  • ShotPoint:     402274 → 403224
+  • INLINE_3D:     523 → 523
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 425: Trazas 403224 a 404174 (951 trazas)
+  • FieldRecord:   524 → 524
+  • ShotPoint:     403225 → 404175
+  • INLINE_3D:     524 → 524
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 426: Trazas 404175 a 405125 (951 trazas)
+  • FieldRecord:   525 → 525
+  • ShotPoint:     404176 → 405126
+  • INLINE_3D:     525 → 525
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 427: Trazas 405126 a 406076 (951 trazas)
+  • FieldRecord:   526 → 526
+  • ShotPoint:     405127 → 406077
+  • INLINE_3D:     526 → 526
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 428: Trazas 406077 a 407027 (951 trazas)
+  • FieldRecord:   527 → 527
+  • ShotPoint:     406078 → 407028
+  • INLINE_3D:     527 → 527
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 429: Trazas 407028 a 407978 (951 trazas)
+  • FieldRecord:   528 → 528
+  • ShotPoint:     407029 → 407979
+  • INLINE_3D:     528 → 528
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 430: Trazas 407979 a 408929 (951 trazas)
+  • FieldRecord:   529 → 529
+  • ShotPoint:     407980 → 408930
+  • INLINE_3D:     529 → 529
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 431: Trazas 408930 a 409880 (951 trazas)
+  • FieldRecord:   530 → 530
+  • ShotPoint:     408931 → 409881
+  • INLINE_3D:     530 → 530
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 432: Trazas 409881 a 410831 (951 trazas)
+  • FieldRecord:   531 → 531
+  • ShotPoint:     409882 → 410832
+  • INLINE_3D:     531 → 531
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 433: Trazas 410832 a 411782 (951 trazas)
+  • FieldRecord:   532 → 532
+  • ShotPoint:     410833 → 411783
+  • INLINE_3D:     532 → 532
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 434: Trazas 411783 a 412733 (951 trazas)
+  • FieldRecord:   533 → 533
+  • ShotPoint:     411784 → 412734
+  • INLINE_3D:     533 → 533
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 435: Trazas 412734 a 413684 (951 trazas)
+  • FieldRecord:   534 → 534
+  • ShotPoint:     412735 → 413685
+  • INLINE_3D:     534 → 534
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 436: Trazas 413685 a 414635 (951 trazas)
+  • FieldRecord:   535 → 535
+  • ShotPoint:     413686 → 414636
+  • INLINE_3D:     535 → 535
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 437: Trazas 414636 a 415586 (951 trazas)
+  • FieldRecord:   536 → 536
+  • ShotPoint:     414637 → 415587
+  • INLINE_3D:     536 → 536
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 438: Trazas 415587 a 416537 (951 trazas)
+  • FieldRecord:   537 → 537
+  • ShotPoint:     415588 → 416538
+  • INLINE_3D:     537 → 537
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 439: Trazas 416538 a 417488 (951 trazas)
+  • FieldRecord:   538 → 538
+  • ShotPoint:     416539 → 417489
+  • INLINE_3D:     538 → 538
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 440: Trazas 417489 a 418439 (951 trazas)
+  • FieldRecord:   539 → 539
+  • ShotPoint:     417490 → 418440
+  • INLINE_3D:     539 → 539
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 441: Trazas 418440 a 419390 (951 trazas)
+  • FieldRecord:   540 → 540
+  • ShotPoint:     418441 → 419391
+  • INLINE_3D:     540 → 540
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 442: Trazas 419391 a 420341 (951 trazas)
+  • FieldRecord:   541 → 541
+  • ShotPoint:     419392 → 420342
+  • INLINE_3D:     541 → 541
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 443: Trazas 420342 a 421292 (951 trazas)
+  • FieldRecord:   542 → 542
+  • ShotPoint:     420343 → 421293
+  • INLINE_3D:     542 → 542
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 444: Trazas 421293 a 422243 (951 trazas)
+  • FieldRecord:   543 → 543
+  • ShotPoint:     421294 → 422244
+  • INLINE_3D:     543 → 543
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 445: Trazas 422244 a 423194 (951 trazas)
+  • FieldRecord:   544 → 544
+  • ShotPoint:     422245 → 423195
+  • INLINE_3D:     544 → 544
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 446: Trazas 423195 a 424145 (951 trazas)
+  • FieldRecord:   545 → 545
+  • ShotPoint:     423196 → 424146
+  • INLINE_3D:     545 → 545
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 447: Trazas 424146 a 425096 (951 trazas)
+  • FieldRecord:   546 → 546
+  • ShotPoint:     424147 → 425097
+  • INLINE_3D:     546 → 546
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 448: Trazas 425097 a 426047 (951 trazas)
+  • FieldRecord:   547 → 547
+  • ShotPoint:     425098 → 426048
+  • INLINE_3D:     547 → 547
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 449: Trazas 426048 a 426998 (951 trazas)
+  • FieldRecord:   548 → 548
+  • ShotPoint:     426049 → 426999
+  • INLINE_3D:     548 → 548
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 450: Trazas 426999 a 427949 (951 trazas)
+  • FieldRecord:   549 → 549
+  • ShotPoint:     427000 → 427950
+  • INLINE_3D:     549 → 549
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 451: Trazas 427950 a 428900 (951 trazas)
+  • FieldRecord:   550 → 550
+  • ShotPoint:     427951 → 428901
+  • INLINE_3D:     550 → 550
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 452: Trazas 428901 a 429851 (951 trazas)
+  • FieldRecord:   551 → 551
+  • ShotPoint:     428902 → 429852
+  • INLINE_3D:     551 → 551
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 453: Trazas 429852 a 430802 (951 trazas)
+  • FieldRecord:   552 → 552
+  • ShotPoint:     429853 → 430803
+  • INLINE_3D:     552 → 552
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 454: Trazas 430803 a 431753 (951 trazas)
+  • FieldRecord:   553 → 553
+  • ShotPoint:     430804 → 431754
+  • INLINE_3D:     553 → 553
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 455: Trazas 431754 a 432704 (951 trazas)
+  • FieldRecord:   554 → 554
+  • ShotPoint:     431755 → 432705
+  • INLINE_3D:     554 → 554
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 456: Trazas 432705 a 433655 (951 trazas)
+  • FieldRecord:   555 → 555
+  • ShotPoint:     432706 → 433656
+  • INLINE_3D:     555 → 555
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 457: Trazas 433656 a 434606 (951 trazas)
+  • FieldRecord:   556 → 556
+  • ShotPoint:     433657 → 434607
+  • INLINE_3D:     556 → 556
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 458: Trazas 434607 a 435557 (951 trazas)
+  • FieldRecord:   557 → 557
+  • ShotPoint:     434608 → 435558
+  • INLINE_3D:     557 → 557
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 459: Trazas 435558 a 436508 (951 trazas)
+  • FieldRecord:   558 → 558
+  • ShotPoint:     435559 → 436509
+  • INLINE_3D:     558 → 558
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 460: Trazas 436509 a 437459 (951 trazas)
+  • FieldRecord:   559 → 559
+  • ShotPoint:     436510 → 437460
+  • INLINE_3D:     559 → 559
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 461: Trazas 437460 a 438410 (951 trazas)
+  • FieldRecord:   560 → 560
+  • ShotPoint:     437461 → 438411
+  • INLINE_3D:     560 → 560
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 462: Trazas 438411 a 439361 (951 trazas)
+  • FieldRecord:   561 → 561
+  • ShotPoint:     438412 → 439362
+  • INLINE_3D:     561 → 561
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 463: Trazas 439362 a 440312 (951 trazas)
+  • FieldRecord:   562 → 562
+  • ShotPoint:     439363 → 440313
+  • INLINE_3D:     562 → 562
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 464: Trazas 440313 a 441263 (951 trazas)
+  • FieldRecord:   563 → 563
+  • ShotPoint:     440314 → 441264
+  • INLINE_3D:     563 → 563
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 465: Trazas 441264 a 442214 (951 trazas)
+  • FieldRecord:   564 → 564
+  • ShotPoint:     441265 → 442215
+  • INLINE_3D:     564 → 564
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 466: Trazas 442215 a 443165 (951 trazas)
+  • FieldRecord:   565 → 565
+  • ShotPoint:     442216 → 443166
+  • INLINE_3D:     565 → 565
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 467: Trazas 443166 a 444116 (951 trazas)
+  • FieldRecord:   566 → 566
+  • ShotPoint:     443167 → 444117
+  • INLINE_3D:     566 → 566
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 468: Trazas 444117 a 445067 (951 trazas)
+  • FieldRecord:   567 → 567
+  • ShotPoint:     444118 → 445068
+  • INLINE_3D:     567 → 567
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 469: Trazas 445068 a 446018 (951 trazas)
+  • FieldRecord:   568 → 568
+  • ShotPoint:     445069 → 446019
+  • INLINE_3D:     568 → 568
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 470: Trazas 446019 a 446969 (951 trazas)
+  • FieldRecord:   569 → 569
+  • ShotPoint:     446020 → 446970
+  • INLINE_3D:     569 → 569
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 471: Trazas 446970 a 447920 (951 trazas)
+  • FieldRecord:   570 → 570
+  • ShotPoint:     446971 → 447921
+  • INLINE_3D:     570 → 570
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 472: Trazas 447921 a 448871 (951 trazas)
+  • FieldRecord:   571 → 571
+  • ShotPoint:     447922 → 448872
+  • INLINE_3D:     571 → 571
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 473: Trazas 448872 a 449822 (951 trazas)
+  • FieldRecord:   572 → 572
+  • ShotPoint:     448873 → 449823
+  • INLINE_3D:     572 → 572
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 474: Trazas 449823 a 450773 (951 trazas)
+  • FieldRecord:   573 → 573
+  • ShotPoint:     449824 → 450774
+  • INLINE_3D:     573 → 573
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 475: Trazas 450774 a 451724 (951 trazas)
+  • FieldRecord:   574 → 574
+  • ShotPoint:     450775 → 451725
+  • INLINE_3D:     574 → 574
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 476: Trazas 451725 a 452675 (951 trazas)
+  • FieldRecord:   575 → 575
+  • ShotPoint:     451726 → 452676
+  • INLINE_3D:     575 → 575
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 477: Trazas 452676 a 453626 (951 trazas)
+  • FieldRecord:   576 → 576
+  • ShotPoint:     452677 → 453627
+  • INLINE_3D:     576 → 576
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 478: Trazas 453627 a 454577 (951 trazas)
+  • FieldRecord:   577 → 577
+  • ShotPoint:     453628 → 454578
+  • INLINE_3D:     577 → 577
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 479: Trazas 454578 a 455528 (951 trazas)
+  • FieldRecord:   578 → 578
+  • ShotPoint:     454579 → 455529
+  • INLINE_3D:     578 → 578
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 480: Trazas 455529 a 456479 (951 trazas)
+  • FieldRecord:   579 → 579
+  • ShotPoint:     455530 → 456480
+  • INLINE_3D:     579 → 579
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 481: Trazas 456480 a 457430 (951 trazas)
+  • FieldRecord:   580 → 580
+  • ShotPoint:     456481 → 457431
+  • INLINE_3D:     580 → 580
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 482: Trazas 457431 a 458381 (951 trazas)
+  • FieldRecord:   581 → 581
+  • ShotPoint:     457432 → 458382
+  • INLINE_3D:     581 → 581
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 483: Trazas 458382 a 459332 (951 trazas)
+  • FieldRecord:   582 → 582
+  • ShotPoint:     458383 → 459333
+  • INLINE_3D:     582 → 582
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 484: Trazas 459333 a 460283 (951 trazas)
+  • FieldRecord:   583 → 583
+  • ShotPoint:     459334 → 460284
+  • INLINE_3D:     583 → 583
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 485: Trazas 460284 a 461234 (951 trazas)
+  • FieldRecord:   584 → 584
+  • ShotPoint:     460285 → 461235
+  • INLINE_3D:     584 → 584
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 486: Trazas 461235 a 462185 (951 trazas)
+  • FieldRecord:   585 → 585
+  • ShotPoint:     461236 → 462186
+  • INLINE_3D:     585 → 585
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 487: Trazas 462186 a 463136 (951 trazas)
+  • FieldRecord:   586 → 586
+  • ShotPoint:     462187 → 463137
+  • INLINE_3D:     586 → 586
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 488: Trazas 463137 a 464087 (951 trazas)
+  • FieldRecord:   587 → 587
+  • ShotPoint:     463138 → 464088
+  • INLINE_3D:     587 → 587
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 489: Trazas 464088 a 465038 (951 trazas)
+  • FieldRecord:   588 → 588
+  • ShotPoint:     464089 → 465039
+  • INLINE_3D:     588 → 588
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 490: Trazas 465039 a 465989 (951 trazas)
+  • FieldRecord:   589 → 589
+  • ShotPoint:     465040 → 465990
+  • INLINE_3D:     589 → 589
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 491: Trazas 465990 a 466940 (951 trazas)
+  • FieldRecord:   590 → 590
+  • ShotPoint:     465991 → 466941
+  • INLINE_3D:     590 → 590
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 492: Trazas 466941 a 467891 (951 trazas)
+  • FieldRecord:   591 → 591
+  • ShotPoint:     466942 → 467892
+  • INLINE_3D:     591 → 591
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 493: Trazas 467892 a 468842 (951 trazas)
+  • FieldRecord:   592 → 592
+  • ShotPoint:     467893 → 468843
+  • INLINE_3D:     592 → 592
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 494: Trazas 468843 a 469793 (951 trazas)
+  • FieldRecord:   593 → 593
+  • ShotPoint:     468844 → 469794
+  • INLINE_3D:     593 → 593
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 495: Trazas 469794 a 470744 (951 trazas)
+  • FieldRecord:   594 → 594
+  • ShotPoint:     469795 → 470745
+  • INLINE_3D:     594 → 594
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 496: Trazas 470745 a 471695 (951 trazas)
+  • FieldRecord:   595 → 595
+  • ShotPoint:     470746 → 471696
+  • INLINE_3D:     595 → 595
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 497: Trazas 471696 a 472646 (951 trazas)
+  • FieldRecord:   596 → 596
+  • ShotPoint:     471697 → 472647
+  • INLINE_3D:     596 → 596
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 498: Trazas 472647 a 473597 (951 trazas)
+  • FieldRecord:   597 → 597
+  • ShotPoint:     472648 → 473598
+  • INLINE_3D:     597 → 597
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 499: Trazas 473598 a 474548 (951 trazas)
+  • FieldRecord:   598 → 598
+  • ShotPoint:     473599 → 474549
+  • INLINE_3D:     598 → 598
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 500: Trazas 474549 a 475499 (951 trazas)
+  • FieldRecord:   599 → 599
+  • ShotPoint:     474550 → 475500
+  • INLINE_3D:     599 → 599
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 501: Trazas 475500 a 476450 (951 trazas)
+  • FieldRecord:   600 → 600
+  • ShotPoint:     475501 → 476451
+  • INLINE_3D:     600 → 600
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 502: Trazas 476451 a 477401 (951 trazas)
+  • FieldRecord:   601 → 601
+  • ShotPoint:     476452 → 477402
+  • INLINE_3D:     601 → 601
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 503: Trazas 477402 a 478352 (951 trazas)
+  • FieldRecord:   602 → 602
+  • ShotPoint:     477403 → 478353
+  • INLINE_3D:     602 → 602
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 504: Trazas 478353 a 479303 (951 trazas)
+  • FieldRecord:   603 → 603
+  • ShotPoint:     478354 → 479304
+  • INLINE_3D:     603 → 603
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 505: Trazas 479304 a 480254 (951 trazas)
+  • FieldRecord:   604 → 604
+  • ShotPoint:     479305 → 480255
+  • INLINE_3D:     604 → 604
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 506: Trazas 480255 a 481205 (951 trazas)
+  • FieldRecord:   605 → 605
+  • ShotPoint:     480256 → 481206
+  • INLINE_3D:     605 → 605
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 507: Trazas 481206 a 482156 (951 trazas)
+  • FieldRecord:   606 → 606
+  • ShotPoint:     481207 → 482157
+  • INLINE_3D:     606 → 606
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 508: Trazas 482157 a 483107 (951 trazas)
+  • FieldRecord:   607 → 607
+  • ShotPoint:     482158 → 483108
+  • INLINE_3D:     607 → 607
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 509: Trazas 483108 a 484058 (951 trazas)
+  • FieldRecord:   608 → 608
+  • ShotPoint:     483109 → 484059
+  • INLINE_3D:     608 → 608
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 510: Trazas 484059 a 485009 (951 trazas)
+  • FieldRecord:   609 → 609
+  • ShotPoint:     484060 → 485010
+  • INLINE_3D:     609 → 609
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 511: Trazas 485010 a 485960 (951 trazas)
+  • FieldRecord:   610 → 610
+  • ShotPoint:     485011 → 485961
+  • INLINE_3D:     610 → 610
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 512: Trazas 485961 a 486911 (951 trazas)
+  • FieldRecord:   611 → 611
+  • ShotPoint:     485962 → 486912
+  • INLINE_3D:     611 → 611
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 513: Trazas 486912 a 487862 (951 trazas)
+  • FieldRecord:   612 → 612
+  • ShotPoint:     486913 → 487863
+  • INLINE_3D:     612 → 612
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 514: Trazas 487863 a 488813 (951 trazas)
+  • FieldRecord:   613 → 613
+  • ShotPoint:     487864 → 488814
+  • INLINE_3D:     613 → 613
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 515: Trazas 488814 a 489764 (951 trazas)
+  • FieldRecord:   614 → 614
+  • ShotPoint:     488815 → 489765
+  • INLINE_3D:     614 → 614
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 516: Trazas 489765 a 490715 (951 trazas)
+  • FieldRecord:   615 → 615
+  • ShotPoint:     489766 → 490716
+  • INLINE_3D:     615 → 615
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 517: Trazas 490716 a 491666 (951 trazas)
+  • FieldRecord:   616 → 616
+  • ShotPoint:     490717 → 491667
+  • INLINE_3D:     616 → 616
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 518: Trazas 491667 a 492617 (951 trazas)
+  • FieldRecord:   617 → 617
+  • ShotPoint:     491668 → 492618
+  • INLINE_3D:     617 → 617
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 519: Trazas 492618 a 493568 (951 trazas)
+  • FieldRecord:   618 → 618
+  • ShotPoint:     492619 → 493569
+  • INLINE_3D:     618 → 618
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 520: Trazas 493569 a 494519 (951 trazas)
+  • FieldRecord:   619 → 619
+  • ShotPoint:     493570 → 494520
+  • INLINE_3D:     619 → 619
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 521: Trazas 494520 a 495470 (951 trazas)
+  • FieldRecord:   620 → 620
+  • ShotPoint:     494521 → 495471
+  • INLINE_3D:     620 → 620
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 522: Trazas 495471 a 496421 (951 trazas)
+  • FieldRecord:   621 → 621
+  • ShotPoint:     495472 → 496422
+  • INLINE_3D:     621 → 621
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 523: Trazas 496422 a 497372 (951 trazas)
+  • FieldRecord:   622 → 622
+  • ShotPoint:     496423 → 497373
+  • INLINE_3D:     622 → 622
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 524: Trazas 497373 a 498323 (951 trazas)
+  • FieldRecord:   623 → 623
+  • ShotPoint:     497374 → 498324
+  • INLINE_3D:     623 → 623
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 525: Trazas 498324 a 499274 (951 trazas)
+  • FieldRecord:   624 → 624
+  • ShotPoint:     498325 → 499275
+  • INLINE_3D:     624 → 624
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 526: Trazas 499275 a 500225 (951 trazas)
+  • FieldRecord:   625 → 625
+  • ShotPoint:     499276 → 500226
+  • INLINE_3D:     625 → 625
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 527: Trazas 500226 a 501176 (951 trazas)
+  • FieldRecord:   626 → 626
+  • ShotPoint:     500227 → 501177
+  • INLINE_3D:     626 → 626
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 528: Trazas 501177 a 502127 (951 trazas)
+  • FieldRecord:   627 → 627
+  • ShotPoint:     501178 → 502128
+  • INLINE_3D:     627 → 627
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 529: Trazas 502128 a 503078 (951 trazas)
+  • FieldRecord:   628 → 628
+  • ShotPoint:     502129 → 503079
+  • INLINE_3D:     628 → 628
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 530: Trazas 503079 a 504029 (951 trazas)
+  • FieldRecord:   629 → 629
+  • ShotPoint:     503080 → 504030
+  • INLINE_3D:     629 → 629
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 531: Trazas 504030 a 504980 (951 trazas)
+  • FieldRecord:   630 → 630
+  • ShotPoint:     504031 → 504981
+  • INLINE_3D:     630 → 630
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 532: Trazas 504981 a 505931 (951 trazas)
+  • FieldRecord:   631 → 631
+  • ShotPoint:     504982 → 505932
+  • INLINE_3D:     631 → 631
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 533: Trazas 505932 a 506882 (951 trazas)
+  • FieldRecord:   632 → 632
+  • ShotPoint:     505933 → 506883
+  • INLINE_3D:     632 → 632
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 534: Trazas 506883 a 507833 (951 trazas)
+  • FieldRecord:   633 → 633
+  • ShotPoint:     506884 → 507834
+  • INLINE_3D:     633 → 633
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 535: Trazas 507834 a 508784 (951 trazas)
+  • FieldRecord:   634 → 634
+  • ShotPoint:     507835 → 508785
+  • INLINE_3D:     634 → 634
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 536: Trazas 508785 a 509735 (951 trazas)
+  • FieldRecord:   635 → 635
+  • ShotPoint:     508786 → 509736
+  • INLINE_3D:     635 → 635
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 537: Trazas 509736 a 510686 (951 trazas)
+  • FieldRecord:   636 → 636
+  • ShotPoint:     509737 → 510687
+  • INLINE_3D:     636 → 636
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 538: Trazas 510687 a 511637 (951 trazas)
+  • FieldRecord:   637 → 637
+  • ShotPoint:     510688 → 511638
+  • INLINE_3D:     637 → 637
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 539: Trazas 511638 a 512588 (951 trazas)
+  • FieldRecord:   638 → 638
+  • ShotPoint:     511639 → 512589
+  • INLINE_3D:     638 → 638
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 540: Trazas 512589 a 513539 (951 trazas)
+  • FieldRecord:   639 → 639
+  • ShotPoint:     512590 → 513540
+  • INLINE_3D:     639 → 639
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 541: Trazas 513540 a 514490 (951 trazas)
+  • FieldRecord:   640 → 640
+  • ShotPoint:     513541 → 514491
+  • INLINE_3D:     640 → 640
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 542: Trazas 514491 a 515441 (951 trazas)
+  • FieldRecord:   641 → 641
+  • ShotPoint:     514492 → 515442
+  • INLINE_3D:     641 → 641
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 543: Trazas 515442 a 516392 (951 trazas)
+  • FieldRecord:   642 → 642
+  • ShotPoint:     515443 → 516393
+  • INLINE_3D:     642 → 642
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 544: Trazas 516393 a 517343 (951 trazas)
+  • FieldRecord:   643 → 643
+  • ShotPoint:     516394 → 517344
+  • INLINE_3D:     643 → 643
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 545: Trazas 517344 a 518294 (951 trazas)
+  • FieldRecord:   644 → 644
+  • ShotPoint:     517345 → 518295
+  • INLINE_3D:     644 → 644
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 546: Trazas 518295 a 519245 (951 trazas)
+  • FieldRecord:   645 → 645
+  • ShotPoint:     518296 → 519246
+  • INLINE_3D:     645 → 645
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 547: Trazas 519246 a 520196 (951 trazas)
+  • FieldRecord:   646 → 646
+  • ShotPoint:     519247 → 520197
+  • INLINE_3D:     646 → 646
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 548: Trazas 520197 a 521147 (951 trazas)
+  • FieldRecord:   647 → 647
+  • ShotPoint:     520198 → 521148
+  • INLINE_3D:     647 → 647
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 549: Trazas 521148 a 522098 (951 trazas)
+  • FieldRecord:   648 → 648
+  • ShotPoint:     521149 → 522099
+  • INLINE_3D:     648 → 648
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 550: Trazas 522099 a 523049 (951 trazas)
+  • FieldRecord:   649 → 649
+  • ShotPoint:     522100 → 523050
+  • INLINE_3D:     649 → 649
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 551: Trazas 523050 a 524000 (951 trazas)
+  • FieldRecord:   650 → 650
+  • ShotPoint:     523051 → 524001
+  • INLINE_3D:     650 → 650
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 552: Trazas 524001 a 524951 (951 trazas)
+  • FieldRecord:   651 → 651
+  • ShotPoint:     524002 → 524952
+  • INLINE_3D:     651 → 651
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 553: Trazas 524952 a 525902 (951 trazas)
+  • FieldRecord:   652 → 652
+  • ShotPoint:     524953 → 525903
+  • INLINE_3D:     652 → 652
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 554: Trazas 525903 a 526853 (951 trazas)
+  • FieldRecord:   653 → 653
+  • ShotPoint:     525904 → 526854
+  • INLINE_3D:     653 → 653
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 555: Trazas 526854 a 527804 (951 trazas)
+  • FieldRecord:   654 → 654
+  • ShotPoint:     526855 → 527805
+  • INLINE_3D:     654 → 654
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 556: Trazas 527805 a 528755 (951 trazas)
+  • FieldRecord:   655 → 655
+  • ShotPoint:     527806 → 528756
+  • INLINE_3D:     655 → 655
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 557: Trazas 528756 a 529706 (951 trazas)
+  • FieldRecord:   656 → 656
+  • ShotPoint:     528757 → 529707
+  • INLINE_3D:     656 → 656
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 558: Trazas 529707 a 530657 (951 trazas)
+  • FieldRecord:   657 → 657
+  • ShotPoint:     529708 → 530658
+  • INLINE_3D:     657 → 657
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 559: Trazas 530658 a 531608 (951 trazas)
+  • FieldRecord:   658 → 658
+  • ShotPoint:     530659 → 531609
+  • INLINE_3D:     658 → 658
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 560: Trazas 531609 a 532559 (951 trazas)
+  • FieldRecord:   659 → 659
+  • ShotPoint:     531610 → 532560
+  • INLINE_3D:     659 → 659
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 561: Trazas 532560 a 533510 (951 trazas)
+  • FieldRecord:   660 → 660
+  • ShotPoint:     532561 → 533511
+  • INLINE_3D:     660 → 660
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 562: Trazas 533511 a 534461 (951 trazas)
+  • FieldRecord:   661 → 661
+  • ShotPoint:     533512 → 534462
+  • INLINE_3D:     661 → 661
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 563: Trazas 534462 a 535412 (951 trazas)
+  • FieldRecord:   662 → 662
+  • ShotPoint:     534463 → 535413
+  • INLINE_3D:     662 → 662
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 564: Trazas 535413 a 536363 (951 trazas)
+  • FieldRecord:   663 → 663
+  • ShotPoint:     535414 → 536364
+  • INLINE_3D:     663 → 663
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 565: Trazas 536364 a 537314 (951 trazas)
+  • FieldRecord:   664 → 664
+  • ShotPoint:     536365 → 537315
+  • INLINE_3D:     664 → 664
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 566: Trazas 537315 a 538265 (951 trazas)
+  • FieldRecord:   665 → 665
+  • ShotPoint:     537316 → 538266
+  • INLINE_3D:     665 → 665
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 567: Trazas 538266 a 539216 (951 trazas)
+  • FieldRecord:   666 → 666
+  • ShotPoint:     538267 → 539217
+  • INLINE_3D:     666 → 666
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 568: Trazas 539217 a 540167 (951 trazas)
+  • FieldRecord:   667 → 667
+  • ShotPoint:     539218 → 540168
+  • INLINE_3D:     667 → 667
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 569: Trazas 540168 a 541118 (951 trazas)
+  • FieldRecord:   668 → 668
+  • ShotPoint:     540169 → 541119
+  • INLINE_3D:     668 → 668
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 570: Trazas 541119 a 542069 (951 trazas)
+  • FieldRecord:   669 → 669
+  • ShotPoint:     541120 → 542070
+  • INLINE_3D:     669 → 669
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 571: Trazas 542070 a 543020 (951 trazas)
+  • FieldRecord:   670 → 670
+  • ShotPoint:     542071 → 543021
+  • INLINE_3D:     670 → 670
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 572: Trazas 543021 a 543971 (951 trazas)
+  • FieldRecord:   671 → 671
+  • ShotPoint:     543022 → 543972
+  • INLINE_3D:     671 → 671
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 573: Trazas 543972 a 544922 (951 trazas)
+  • FieldRecord:   672 → 672
+  • ShotPoint:     543973 → 544923
+  • INLINE_3D:     672 → 672
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 574: Trazas 544923 a 545873 (951 trazas)
+  • FieldRecord:   673 → 673
+  • ShotPoint:     544924 → 545874
+  • INLINE_3D:     673 → 673
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 575: Trazas 545874 a 546824 (951 trazas)
+  • FieldRecord:   674 → 674
+  • ShotPoint:     545875 → 546825
+  • INLINE_3D:     674 → 674
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 576: Trazas 546825 a 547775 (951 trazas)
+  • FieldRecord:   675 → 675
+  • ShotPoint:     546826 → 547776
+  • INLINE_3D:     675 → 675
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 577: Trazas 547776 a 548726 (951 trazas)
+  • FieldRecord:   676 → 676
+  • ShotPoint:     547777 → 548727
+  • INLINE_3D:     676 → 676
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 578: Trazas 548727 a 549677 (951 trazas)
+  • FieldRecord:   677 → 677
+  • ShotPoint:     548728 → 549678
+  • INLINE_3D:     677 → 677
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 579: Trazas 549678 a 550628 (951 trazas)
+  • FieldRecord:   678 → 678
+  • ShotPoint:     549679 → 550629
+  • INLINE_3D:     678 → 678
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 580: Trazas 550629 a 551579 (951 trazas)
+  • FieldRecord:   679 → 679
+  • ShotPoint:     550630 → 551580
+  • INLINE_3D:     679 → 679
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 581: Trazas 551580 a 552530 (951 trazas)
+  • FieldRecord:   680 → 680
+  • ShotPoint:     551581 → 552531
+  • INLINE_3D:     680 → 680
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 582: Trazas 552531 a 553481 (951 trazas)
+  • FieldRecord:   681 → 681
+  • ShotPoint:     552532 → 553482
+  • INLINE_3D:     681 → 681
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 583: Trazas 553482 a 554432 (951 trazas)
+  • FieldRecord:   682 → 682
+  • ShotPoint:     553483 → 554433
+  • INLINE_3D:     682 → 682
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 584: Trazas 554433 a 555383 (951 trazas)
+  • FieldRecord:   683 → 683
+  • ShotPoint:     554434 → 555384
+  • INLINE_3D:     683 → 683
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 585: Trazas 555384 a 556334 (951 trazas)
+  • FieldRecord:   684 → 684
+  • ShotPoint:     555385 → 556335
+  • INLINE_3D:     684 → 684
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 586: Trazas 556335 a 557285 (951 trazas)
+  • FieldRecord:   685 → 685
+  • ShotPoint:     556336 → 557286
+  • INLINE_3D:     685 → 685
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 587: Trazas 557286 a 558236 (951 trazas)
+  • FieldRecord:   686 → 686
+  • ShotPoint:     557287 → 558237
+  • INLINE_3D:     686 → 686
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 588: Trazas 558237 a 559187 (951 trazas)
+  • FieldRecord:   687 → 687
+  • ShotPoint:     558238 → 559188
+  • INLINE_3D:     687 → 687
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 589: Trazas 559188 a 560138 (951 trazas)
+  • FieldRecord:   688 → 688
+  • ShotPoint:     559189 → 560139
+  • INLINE_3D:     688 → 688
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 590: Trazas 560139 a 561089 (951 trazas)
+  • FieldRecord:   689 → 689
+  • ShotPoint:     560140 → 561090
+  • INLINE_3D:     689 → 689
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 591: Trazas 561090 a 562040 (951 trazas)
+  • FieldRecord:   690 → 690
+  • ShotPoint:     561091 → 562041
+  • INLINE_3D:     690 → 690
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 592: Trazas 562041 a 562991 (951 trazas)
+  • FieldRecord:   691 → 691
+  • ShotPoint:     562042 → 562992
+  • INLINE_3D:     691 → 691
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 593: Trazas 562992 a 563942 (951 trazas)
+  • FieldRecord:   692 → 692
+  • ShotPoint:     562993 → 563943
+  • INLINE_3D:     692 → 692
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 594: Trazas 563943 a 564893 (951 trazas)
+  • FieldRecord:   693 → 693
+  • ShotPoint:     563944 → 564894
+  • INLINE_3D:     693 → 693
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 595: Trazas 564894 a 565844 (951 trazas)
+  • FieldRecord:   694 → 694
+  • ShotPoint:     564895 → 565845
+  • INLINE_3D:     694 → 694
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 596: Trazas 565845 a 566795 (951 trazas)
+  • FieldRecord:   695 → 695
+  • ShotPoint:     565846 → 566796
+  • INLINE_3D:     695 → 695
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 597: Trazas 566796 a 567746 (951 trazas)
+  • FieldRecord:   696 → 696
+  • ShotPoint:     566797 → 567747
+  • INLINE_3D:     696 → 696
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 598: Trazas 567747 a 568697 (951 trazas)
+  • FieldRecord:   697 → 697
+  • ShotPoint:     567748 → 568698
+  • INLINE_3D:     697 → 697
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 599: Trazas 568698 a 569648 (951 trazas)
+  • FieldRecord:   698 → 698
+  • ShotPoint:     568699 → 569649
+  • INLINE_3D:     698 → 698
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 600: Trazas 569649 a 570599 (951 trazas)
+  • FieldRecord:   699 → 699
+  • ShotPoint:     569650 → 570600
+  • INLINE_3D:     699 → 699
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 601: Trazas 570600 a 571550 (951 trazas)
+  • FieldRecord:   700 → 700
+  • ShotPoint:     570601 → 571551
+  • INLINE_3D:     700 → 700
+  • CROSSLINE_3D:  300 → 1250
+
+Sección 602: Trazas 571551 a 571551 (1 trazas)
+  • FieldRecord:   701 → 701
+  • ShotPoint:     571552 → 571552
+  • INLINE_3D:     701 → 701
+  • CROSSLINE_3D:  451 → 451
+
+Sección 603: Trazas 571552 a 571553 (2 trazas)
+  • FieldRecord:   701 → 701
+  • ShotPoint:     571553 → 571554
+  • INLINE_3D:     701 → 701
+  • CROSSLINE_3D:  453 → 454
+
+Sección 604: Trazas 571554 a 571555 (2 trazas)
+  • FieldRecord:   701 → 701
+  • ShotPoint:     571555 → 571556
+  • INLINE_3D:     701 → 701
+  • CROSSLINE_3D:  465 → 466
+
+Sección 605: Trazas 571556 a 571556 (1 trazas)
+  • FieldRecord:   701 → 701
+  • ShotPoint:     571557 → 571557
+  • INLINE_3D:     701 → 701
+  • CROSSLINE_3D:  469 → 469
+
+Sección 606: Trazas 571557 a 571557 (1 trazas)
+  • FieldRecord:   701 → 701
+  • ShotPoint:     571558 → 571558
+  • INLINE_3D:     701 → 701
+  • CROSSLINE_3D:  472 → 472
+
+Sección 607: Trazas 571558 a 571558 (1 trazas)
+  • FieldRecord:   701 → 701
+  • ShotPoint:     571559 → 571559
+  • INLINE_3D:     701 → 701
+  • CROSSLINE_3D:  475 → 475
+
+Sección 608: Trazas 571559 a 571559 (1 trazas)
+  • FieldRecord:   701 → 701
+  • ShotPoint:     571560 → 571560
+  • INLINE_3D:     701 → 701
+  • CROSSLINE_3D:  481 → 481
+
+Sección 609: Trazas 571560 a 571636 (77 trazas)
+  • FieldRecord:   701 → 701
+  • ShotPoint:     571561 → 571637
+  • INLINE_3D:     701 → 701
+  • CROSSLINE_3D:  483 → 559
+
+Sección 610: Trazas 571637 a 572216 (580 trazas)
+  • FieldRecord:   701 → 701
+  • ShotPoint:     571638 → 572217
+  • INLINE_3D:     701 → 701
+  • CROSSLINE_3D:  664 → 1243
+
+Sección 611: Trazas 572217 a 572795 (579 trazas)
+  • FieldRecord:   702 → 702
+  • ShotPoint:     572218 → 572796
+  • INLINE_3D:     702 → 702
+  • CROSSLINE_3D:  664 → 1242
+
+Sección 612: Trazas 572796 a 572796 (1 trazas)
+  • FieldRecord:   702 → 702
+  • ShotPoint:     572797 → 572797
+  • INLINE_3D:     702 → 702
+  • CROSSLINE_3D:  1244 → 1244
+
+Sección 613: Trazas 572797 a 573377 (581 trazas)
+  • FieldRecord:   703 → 703
+  • ShotPoint:     572798 → 573378
+  • INLINE_3D:     703 → 703
+  • CROSSLINE_3D:  664 → 1244
+
+Sección 614: Trazas 573378 a 573958 (581 trazas)
+  • FieldRecord:   704 → 704
+  • ShotPoint:     573379 → 573959
+  • INLINE_3D:     704 → 704
+  • CROSSLINE_3D:  664 → 1244
+
+Sección 615: Trazas 573959 a 574539 (581 trazas)
+  • FieldRecord:   705 → 705
+  • ShotPoint:     573960 → 574540
+  • INLINE_3D:     705 → 705
+  • CROSSLINE_3D:  664 → 1244
+
+Sección 616: Trazas 574540 a 575120 (581 trazas)
+  • FieldRecord:   706 → 706
+  • ShotPoint:     574541 → 575121
+  • INLINE_3D:     706 → 706
+  • CROSSLINE_3D:  664 → 1244
+
+Sección 617: Trazas 575121 a 575699 (579 trazas)
+  • FieldRecord:   707 → 707
+  • ShotPoint:     575122 → 575700
+  • INLINE_3D:     707 → 707
+  • CROSSLINE_3D:  664 → 1242
+
+Sección 618: Trazas 575700 a 576267 (568 trazas)
+  • FieldRecord:   708 → 708
+  • ShotPoint:     575701 → 576268
+  • INLINE_3D:     708 → 708
+  • CROSSLINE_3D:  664 → 1231
+
+Sección 619: Trazas 576268 a 576270 (3 trazas)
+  • FieldRecord:   708 → 708
+  • ShotPoint:     576269 → 576271
+  • INLINE_3D:     708 → 708
+  • CROSSLINE_3D:  1242 → 1244
+
+Sección 620: Trazas 576271 a 576838 (568 trazas)
+  • FieldRecord:   709 → 709
+  • ShotPoint:     576272 → 576839
+  • INLINE_3D:     709 → 709
+  • CROSSLINE_3D:  664 → 1231
+
+Sección 621: Trazas 576839 a 576840 (2 trazas)
+  • FieldRecord:   709 → 709
+  • ShotPoint:     576840 → 576841
+  • INLINE_3D:     709 → 709
+  • CROSSLINE_3D:  1242 → 1243
+
+Sección 622: Trazas 576841 a 577421 (581 trazas)
+  • FieldRecord:   710 → 710
+  • ShotPoint:     576842 → 577422
+  • INLINE_3D:     710 → 710
+  • CROSSLINE_3D:  664 → 1244
+
+Sección 623: Trazas 577422 a 578001 (580 trazas)
+  • FieldRecord:   711 → 711
+  • ShotPoint:     577423 → 578002
+  • INLINE_3D:     711 → 711
+  • CROSSLINE_3D:  664 → 1243
+
+Sección 624: Trazas 578002 a 578582 (581 trazas)
+  • FieldRecord:   712 → 712
+  • ShotPoint:     578003 → 578583
+  • INLINE_3D:     712 → 712
+  • CROSSLINE_3D:  664 → 1244
+
+Sección 625: Trazas 578583 a 579162 (580 trazas)
+  • FieldRecord:   713 → 713
+  • ShotPoint:     578584 → 579163
+  • INLINE_3D:     713 → 713
+  • CROSSLINE_3D:  664 → 1243
+
+Sección 626: Trazas 579163 a 579742 (580 trazas)
+  • FieldRecord:   714 → 714
+  • ShotPoint:     579164 → 579743
+  • INLINE_3D:     714 → 714
+  • CROSSLINE_3D:  664 → 1243
+
+Sección 627: Trazas 579743 a 580321 (579 trazas)
+  • FieldRecord:   715 → 715
+  • ShotPoint:     579744 → 580322
+  • INLINE_3D:     715 → 715
+  • CROSSLINE_3D:  664 → 1242
+
+Sección 628: Trazas 580322 a 580901 (580 trazas)
+  • FieldRecord:   716 → 716
+  • ShotPoint:     580323 → 580902
+  • INLINE_3D:     716 → 716
+  • CROSSLINE_3D:  664 → 1243
+
+Sección 629: Trazas 580902 a 581480 (579 trazas)
+  • FieldRecord:   717 → 717
+  • ShotPoint:     580903 → 581481
+  • INLINE_3D:     717 → 717
+  • CROSSLINE_3D:  664 → 1242
+
+Sección 630: Trazas 581481 a 582060 (580 trazas)
+  • FieldRecord:   718 → 718
+  • ShotPoint:     581482 → 582061
+  • INLINE_3D:     718 → 718
+  • CROSSLINE_3D:  664 → 1243
+
+Sección 631: Trazas 582061 a 582640 (580 trazas)
+  • FieldRecord:   719 → 719
+  • ShotPoint:     582062 → 582641
+  • INLINE_3D:     719 → 719
+  • CROSSLINE_3D:  664 → 1243
+
+Sección 632: Trazas 582641 a 583219 (579 trazas)
+  • FieldRecord:   720 → 720
+  • ShotPoint:     582642 → 583220
+  • INLINE_3D:     720 → 720
+  • CROSSLINE_3D:  664 → 1242
+
+Sección 633: Trazas 583220 a 583799 (580 trazas)
+  • FieldRecord:   721 → 721
+  • ShotPoint:     583221 → 583800
+  • INLINE_3D:     721 → 721
+  • CROSSLINE_3D:  664 → 1243
+
+Sección 634: Trazas 583800 a 584386 (587 trazas)
+  • FieldRecord:   722 → 722
+  • ShotPoint:     583801 → 584387
+  • INLINE_3D:     722 → 722
+  • CROSSLINE_3D:  664 → 1250
+
+Sección 635: Trazas 584387 a 584962 (576 trazas)
+  • FieldRecord:   723 → 723
+  • ShotPoint:     584388 → 584963
+  • INLINE_3D:     723 → 723
+  • CROSSLINE_3D:  675 → 1250
+
+Sección 636: Trazas 584963 a 585538 (576 trazas)
+  • FieldRecord:   724 → 724
+  • ShotPoint:     584964 → 585539
+  • INLINE_3D:     724 → 724
+  • CROSSLINE_3D:  675 → 1250
+
+Sección 637: Trazas 585539 a 586115 (577 trazas)
+  • FieldRecord:   725 → 725
+  • ShotPoint:     585540 → 586116
+  • INLINE_3D:     725 → 725
+  • CROSSLINE_3D:  674 → 1250
+
+Sección 638: Trazas 586116 a 586692 (577 trazas)
+  • FieldRecord:   726 → 726
+  • ShotPoint:     586117 → 586693
+  • INLINE_3D:     726 → 726
+  • CROSSLINE_3D:  674 → 1250
+
+Sección 639: Trazas 586693 a 587269 (577 trazas)
+  • FieldRecord:   727 → 727
+  • ShotPoint:     586694 → 587270
+  • INLINE_3D:     727 → 727
+  • CROSSLINE_3D:  674 → 1250
+
+Sección 640: Trazas 587270 a 587846 (577 trazas)
+  • FieldRecord:   728 → 728
+  • ShotPoint:     587271 → 587847
+  • INLINE_3D:     728 → 728
+  • CROSSLINE_3D:  674 → 1250
+
+Sección 641: Trazas 587847 a 588422 (576 trazas)
+  • FieldRecord:   729 → 729
+  • ShotPoint:     587848 → 588423
+  • INLINE_3D:     729 → 729
+  • CROSSLINE_3D:  675 → 1250
+
+Sección 642: Trazas 588423 a 588998 (576 trazas)
+  • FieldRecord:   730 → 730
+  • ShotPoint:     588424 → 588999
+  • INLINE_3D:     730 → 730
+  • CROSSLINE_3D:  675 → 1250
+
+Sección 643: Trazas 588999 a 589575 (577 trazas)
+  • FieldRecord:   731 → 731
+  • ShotPoint:     589000 → 589576
+  • INLINE_3D:     731 → 731
+  • CROSSLINE_3D:  674 → 1250
+
+Sección 644: Trazas 589576 a 590152 (577 trazas)
+  • FieldRecord:   732 → 732
+  • ShotPoint:     589577 → 590153
+  • INLINE_3D:     732 → 732
+  • CROSSLINE_3D:  674 → 1250
+
+Sección 645: Trazas 590153 a 590729 (577 trazas)
+  • FieldRecord:   733 → 733
+  • ShotPoint:     590154 → 590730
+  • INLINE_3D:     733 → 733
+  • CROSSLINE_3D:  674 → 1250
+
+Sección 646: Trazas 590730 a 591306 (577 trazas)
+  • FieldRecord:   734 → 734
+  • ShotPoint:     590731 → 591307
+  • INLINE_3D:     734 → 734
+  • CROSSLINE_3D:  674 → 1250
+
+Sección 647: Trazas 591307 a 591879 (573 trazas)
+  • FieldRecord:   735 → 735
+  • ShotPoint:     591308 → 591880
+  • INLINE_3D:     735 → 735
+  • CROSSLINE_3D:  678 → 1250
+
+Sección 648: Trazas 591880 a 592452 (573 trazas)
+  • FieldRecord:   736 → 736
+  • ShotPoint:     591881 → 592453
+  • INLINE_3D:     736 → 736
+  • CROSSLINE_3D:  678 → 1250
+
+Sección 649: Trazas 592453 a 593028 (576 trazas)
+  • FieldRecord:   737 → 737
+  • ShotPoint:     592454 → 593029
+  • INLINE_3D:     737 → 737
+  • CROSSLINE_3D:  675 → 1250
+
+Sección 650: Trazas 593029 a 593605 (577 trazas)
+  • FieldRecord:   738 → 738
+  • ShotPoint:     593030 → 593606
+  • INLINE_3D:     738 → 738
+  • CROSSLINE_3D:  674 → 1250
+
+Sección 651: Trazas 593606 a 594182 (577 trazas)
+  • FieldRecord:   739 → 739
+  • ShotPoint:     593607 → 594183
+  • INLINE_3D:     739 → 739
+  • CROSSLINE_3D:  674 → 1250
+
+Sección 652: Trazas 594183 a 594758 (576 trazas)
+  • FieldRecord:   740 → 740
+  • ShotPoint:     594184 → 594759
+  • INLINE_3D:     740 → 740
+  • CROSSLINE_3D:  675 → 1250
+
+Sección 653: Trazas 594759 a 595335 (577 trazas)
+  • FieldRecord:   741 → 741
+  • ShotPoint:     594760 → 595336
+  • INLINE_3D:     741 → 741
+  • CROSSLINE_3D:  674 → 1250
+
+Sección 654: Trazas 595336 a 595911 (576 trazas)
+  • FieldRecord:   742 → 742
+  • ShotPoint:     595337 → 595912
+  • INLINE_3D:     742 → 742
+  • CROSSLINE_3D:  675 → 1250
+
+Sección 655: Trazas 595912 a 596488 (577 trazas)
+  • FieldRecord:   743 → 743
+  • ShotPoint:     595913 → 596489
+  • INLINE_3D:     743 → 743
+  • CROSSLINE_3D:  674 → 1250
+
+Sección 656: Trazas 596489 a 597065 (577 trazas)
+  • FieldRecord:   744 → 744
+  • ShotPoint:     596490 → 597066
+  • INLINE_3D:     744 → 744
+  • CROSSLINE_3D:  674 → 1250
+
+Sección 657: Trazas 597066 a 597636 (571 trazas)
+  • FieldRecord:   745 → 745
+  • ShotPoint:     597067 → 597637
+  • INLINE_3D:     745 → 745
+  • CROSSLINE_3D:  680 → 1250
+
+Sección 658: Trazas 597637 a 598207 (571 trazas)
+  • FieldRecord:   746 → 746
+  • ShotPoint:     597638 → 598208
+  • INLINE_3D:     746 → 746
+  • CROSSLINE_3D:  680 → 1250
+
+Sección 659: Trazas 598208 a 598783 (576 trazas)
+  • FieldRecord:   747 → 747
+  • ShotPoint:     598209 → 598784
+  • INLINE_3D:     747 → 747
+  • CROSSLINE_3D:  675 → 1250
+
+Sección 660: Trazas 598784 a 599360 (577 trazas)
+  • FieldRecord:   748 → 748
+  • ShotPoint:     598785 → 599361
+  • INLINE_3D:     748 → 748
+  • CROSSLINE_3D:  674 → 1250
+
+Sección 661: Trazas 599361 a 599937 (577 trazas)
+  • FieldRecord:   749 → 749
+  • ShotPoint:     599362 → 599938
+  • INLINE_3D:     749 → 749
+  • CROSSLINE_3D:  674 → 1250
+
+Sección 662: Trazas 599938 a 600514 (577 trazas)
+  • FieldRecord:   750 → 750
+  • ShotPoint:     599939 → 600515
+  • INLINE_3D:     750 → 750
+  • CROSSLINE_3D:  674 → 1250
